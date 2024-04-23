@@ -140,3 +140,73 @@ def main():
 
 if __name__ == 'main':
     main()
+
+
+from sqlalchemy import create_engine, Column, Integer, String, Boolean, Float, Enum
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+
+Base = declarative_base()
+
+class Car(Base):
+    __tablename__ = 'cars'
+
+    id = Column(Integer, primary_key=True)
+    brand = Column(String)
+    model = Column(String)
+    year = Column(Integer)
+    price = Column(Float)
+    current_bid = Column(Float)
+    status = Column(Enum('not sold', 'sold'))
+    miles = Column(Integer)
+    transmission = Column(String)
+    featured = Column(Boolean)
+    inspected = Column(Boolean)
+    city = Column(String)
+    state_province = Column(String)
+    zip_code = Column(String)
+    reserve = Column(Boolean)
+
+    def __repr__(self):
+        return f"<Car(brand='{self.brand}', model='{self.model}', year={self.year}, price={self.price})>"
+
+class CarsManager:
+    def __init__(self, database_url):
+        self.engine = create_engine(database_url)
+        Base.metadata.create_all(self.engine)
+        Session = sessionmaker(bind=self.engine)
+        self.session = Session()
+
+    def get_cars_by_brand(self, brand):
+        return self.session.query(Car).filter(Car.brand == brand).all()
+
+    def get_cars_by_year(self, year):
+        return self.session.query(Car).filter(Car.year == year).all()
+
+    def get_cars_by_price(self, price):
+        return self.session.query(Car).filter(Car.price == price).all()
+
+    def get_cars_by_model(self, model):
+        return self.session.query(Car).filter(Car.model == model).all()
+
+def main():
+    manager = CarsManager('sqlite:///your_database.db')
+
+    # Example tests
+    cars_honda = manager.get_cars_by_brand("Honda")
+    print("Honda Cars:")
+    for car in cars_honda:
+        print(car)
+
+    cars_year = manager.get_cars_by_year(1996)
+    print("\nYears in 1996:")
+    for car in cars_year:
+        print(car)
+
+    cars_model = manager.get_cars_by_model("S2000")
+    print("\nS2000 Listings:")
+    for car in cars_model:
+        print(car)
+
+if __name__ == '__main__':
+    main()

@@ -42,10 +42,11 @@ class Scraper:
             links = [auction.absolute_links for auction in auctions]
             return links
 
-    def make_request(url):
+    def make_request(self, url):
+        driver = self.driver
         try:
             driver.get(url)
-            """time.sleep(5)
+            time.sleep(5)
             driver.execute_script("window.scrollTo(0, 2000)")
             time.sleep(2)
             driver.execute_script("window.scrollTo(0, 2000)") 
@@ -53,42 +54,44 @@ class Scraper:
             driver.execute_script("window.scrollTo(0, 2000)") 
             time.sleep(2)
             driver.execute_script("window.scrollTo(0, 2000)") 
-            time.sleep(2)"""
+            time.sleep(2)
             driver.execute_script("window.scrollTo(0, 2000)") 
             time.sleep(2)
-            soup = BeautifulSoup(driver.page_source, 'lxml') #convert the result into lxml
+            soup = BeautifulSoup(driver.page_source, 'html.parser') #convert the result into lxml
             return soup
         except Exception as e:
             print(e)
     
-    def get(self, soup, li):
-        print(li.title)
-        auction_url = soup.find('a', class_='hero')['href']
-        auction_title = soup.find('a', class_='hero')['title']
-        image_url = soup.find('img')['src']
-        sold_price = soup.find('span', class_='bid-value').text
-        description = soup.find('p', class_='auction-subtitle').text.strip()
-        auction_end_date = soup.find('p', class_='auction-loc').text.strip()
-        print("Auction URL:", auction_url)
+    def get(self, li):
+        auction_url = li.find('a', class_='hero')['href']
+        auction_title = li.find('a', class_='hero')['title']
+        image_url = li.find('img')['src']
+        # sold_price = li.find('span', class_='bid-value').text
+        # description = li.find('p', class_='auction-subtitle').text.strip()
+        # auction_end_date = li.find('p', class_='auction-loc').text.strip()
+        """print("Auction URL:", auction_url)
         print("Title:", auction_title)
         print("Image URL:", image_url)
         print("Sold Price:", sold_price)
         print("Description:", description)
-        print("Auction End Date:", auction_end_date)
+        print("Auction End Date:", auction_end_date)"""
         return { 'url': auction_url,  'title': auction_title }  
 
     def scrape(self):
-        soup = make_request('https://carsandbids.com/past-auctions/?page=0')
+        soup = self.make_request('https://carsandbids.com/past-auctions/?page=0')
+        #print(soup.prettify())
         ul_tag = soup.find("ul", class_ = "auctions-list past-auctions")
         li_tags = ul_tag.find_all("li", class_ ="auction-item")
 
 
         for tag in li_tags:
-            self.data.add(self.get(soup, tag))
+            #print(tag)
+            self.data.append(self.get(tag))
 
 def main():
     s = Scraper()
     s.scrape()
+    print(s.data)
 
 if __name__ == '__main__':
     main()

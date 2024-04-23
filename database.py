@@ -43,36 +43,75 @@ SELECT * FROM cars WHERE model = f'${MODEL}';"""
 
 class Cars:
     def __init__(self, brand, model, year, price, current_bid, status,
-                 miles, transmission, featured, inspected, city, is_province, province, reserve):
+                 miles, transmission, featured, inspected, city, state, zip_code, is_province, province, reserve):
 
         self.brand = brand
         self.model = model
         self.year = year
         self.price = price
-        self.current_bid
+        self.current_bid = current_bid
         self.status = status
         self.miles = miles
         self.transmission = transmission
         self.featured = featured
+        self.inspected = inspected
         self.city = city
+        self.state = state
+        self.zip = zip_code
         self.is_province = is_province
         self.province = province
         self.reserve = reserve
         
     def get_brand(self):
-        return self.session.query(Car).filter(Car.brand == brand).all()
-
+        return self.session.query(Cars).filter(Cars.brand == self.brand).all()
 
     def get_model(self):
-        return self.session.query(Car).filter(Car.brand == model).all()
+        return self.session.query(Cars).filter(Cars.model == self.model).all()
     
     def get_year(self):
-        return self.session.query(Car).filter(Car.brand == year).all()
+        return self.session.query(Cars).filter(Cars.year == self.year).all()
     
     def get_price(self):
-        return self.session.query(Car).filter(Car.brand == price).all()
+        return self.session.query(Cars).filter(Cars.price == self.price).all()
 
-    def get_current_
+    def get_current_bid(self):
+        return self.session.query(Cars).filter(Cars.current_bid == self.current_bid).all()
+    
+    def get_status(self):
+        return self.session.query(Cars).filter(Cars.status == self.status).all()
+    
+    def get_miles(self):
+        return self.session.query(Cars).filter(Cars.miles == self.miles).all()
+    
+    def get_trans(self):
+        return self.session.query(Cars).filter(Cars.tranmisson == self.transmission).all()
+    
+    def get_featured_status(self):
+        return self.session.query(Cars).filter(Cars.featured == self.featured).all()
+    
+    def get_inspection_status(self):
+        return self.session.query(Cars).filter(Cars.inspected == self.inspected).all()
+    
+    def get_city(self):
+        return self.session.query(Cars).filter(Cars.city == self.city).all()
+    
+    def get_state(self):
+        return self.session.query(Cars).filter(Cars.state == self.state).all()
+    
+    def get_zip(self):
+        return self.session.query(Cars).filter(Cars.zip == self.zip).all()
+    
+    def get_is_province_status(self):
+        return self.session.query(Cars).filter(Cars.is_provice == self.is_province).all()
+    
+    def get_province(self):
+        return self.session.query(Cars).filter(Cars.get_province == self.get_province).all()
+    
+    def get_reserve(self):
+        return self.session.query(Cars).filter(Cars.is_provice == self.get_reserve).all()
+    
+    
+    
 
 
 

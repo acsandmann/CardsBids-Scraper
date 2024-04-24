@@ -145,27 +145,34 @@ if __name__ == 'main':
 from sqlalchemy import create_engine, Column, Integer, String, Boolean, Float, Enum
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
+import enum
+
+class StatusEnum(enum.Enum):
+    on_sale = 1
+    pending = 2
+    sold = 3
+
+class TransmissionEnum(enum.Enum):
+    manual = 1
+    automatic = 2
+    unknown = 3
 
 Base = declarative_base()
 
 class Car(Base):
     __tablename__ = 'cars'
-
-    id = Column(Integer, primary_key=True)
-    brand = Column(String)
+    sale_id = Column(Integer, primary_key=True)
     model = Column(String)
+    brand = Column(String)
     year = Column(Integer)
     price = Column(Float)
-    current_bid = Column(Float)
-    status = Column(Enum('not sold', 'sold'))
-    miles = Column(Integer)
-    transmission = Column(String)
-    featured = Column(Boolean)
-    inspected = Column(Boolean)
-    city = Column(String)
-    state_province = Column(String)
-    zip_code = Column(String)
-    reserve = Column(Boolean)
+    status = Column(StatusEnum)
+    miles = Column(Integer, nullable=True)
+    transmission = Column(TransmissionEnum, nullable=True)
+    featured = Column(Boolean, nullable=True, default=False)
+    inspected = Column(Boolean, nullable=True, default=False)
+    location = Column(String, nullable=True)
+    reserve = Column(Boolean, nullable=True)
 
     def __repr__(self):
         return f"<Car(brand='{self.brand}', model='{self.model}', year={self.year}, price={self.price})>"

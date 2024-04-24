@@ -2,23 +2,18 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import json
 
-# Load JSON data
 with open('./scraped_data.json', 'r') as file:
     data = json.load(file)
 
-# Create a DataFrame
 df = pd.DataFrame(data)
 
-# Convert sold prices to numerical values and handle missing values
 df['sold_price'] = df['sold_price'].replace('[\$,]', '', regex=True).astype(float)
 
-# Fill missing values if necessary
 df['transmission'].fillna('Unknown', inplace=True)
 df['modifications'].fillna('Unknown', inplace=True)
 
-# Convert mileage to a clean format and handle unknowns
 df['mileage'] = df['mileage'].str.extract('(\d+,\d+|\d+)')[0].str.replace(',', '').astype(float)
-df['mileage'].fillna(df['mileage'].mean(), inplace=True)  # Example: fill with the mean
+df['mileage'].fillna(df['mileage'].mean(), inplace=True)
 
 plt.figure(figsize=(10, 6))
 plt.hist(df['sold_price'].dropna(), bins=30, color='blue', alpha=0.7)

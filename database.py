@@ -188,6 +188,43 @@ class CarsManager:
 
     def get_cars_by_model(self, model):
         return self.session.query(Car).filter(Car.model == model).all()
+    
+    def get_current_bid(self,current_bid):
+        return self.session.query(Cars).filter(Cars.current_bid == self.current_bid).all()
+    
+    def get_status(self, status):
+        return self.session.query(Cars).filter(Cars.status == self.status).all()
+    
+    def get_miles(self, miles):
+        return self.session.query(Cars).filter(Cars.miles == self.miles).all()
+    
+    def get_trans(self, transmission):
+        return self.session.query(Cars).filter(Cars.tranmisson == self.transmission).all()
+    
+    def get_featured_status(self, featured):
+        return self.session.query(Cars).filter(Cars.featured == self.featured).all()
+    
+    def get_inspection_status(self, inspected):
+        return self.session.query(Cars).filter(Cars.inspected == self.inspected).all()
+    
+    def get_city(self, city):
+        return self.session.query(Cars).filter(Cars.city == self.city).all()
+    
+    def get_state(self, state):
+        return self.session.query(Cars).filter(Cars.state == self.state).all()
+    
+    def get_zip(self, zip_code):
+        return self.session.query(Cars).filter(Cars.zip == self.zip).all()
+    
+    def get_is_province_status(self, is_province):
+        return self.session.query(Cars).filter(Cars.is_provice == self.is_province).all()
+    
+    def get_province(self, province):
+        return self.session.query(Cars).filter(Cars.get_province == self.get_province).all()
+    
+    def get_reserve(self, reserve):
+        return self.session.query(Cars).filter(Cars.is_provice == self.get_reserve).all()
+    
 
 def main():
     manager = CarsManager('sqlite:///your_database.db')

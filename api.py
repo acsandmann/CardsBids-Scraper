@@ -1,4 +1,4 @@
-from flask import Flask
+from flask_MAIN import Flask
 from models import Base
 from db import db_session, init_db
 

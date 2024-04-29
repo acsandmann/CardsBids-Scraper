@@ -1,5 +1,5 @@
 import os
-from flask2 import Blueprint, jsonify, make_response, render_template, request, Response
+from flask import Blueprint, jsonify, make_response, render_template, request, Response
 from models import Car
 from sqlalchemy.exc import SQLAlchemyError
 from db import db_session as session

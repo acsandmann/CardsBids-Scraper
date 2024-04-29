@@ -1,5 +1,5 @@
 import os
-from flask import Blueprint, jsonify, make_response, render_template, request, Response
+from flask2 import Blueprint, jsonify, make_response, render_template, request, Response
 from models import Car
 from sqlalchemy.exc import SQLAlchemyError
 from db import db_session as session
@@ -56,9 +56,11 @@ class CarDetail(MethodView):
             return make_response(jsonify({"error": "Car not found"}), 404)
 
         data = request.json
+        print(data)
         try:
             for key, value in data.items():
                 setattr(car, key, value)
+            print(car)
             session.commit()
             return jsonify(car.to_dict())
         except SQLAlchemyError as e:

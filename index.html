@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cars Inventory</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.0/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-200 py-8">
+    <div class="container mx-auto px-4">
+        <h1 class="text-2xl font-bold mb-6">Cars Inventory</h1>
+
+        <!-- Form for adding or updating a car -->
+        <div id="carForm" class="mb-6">
+            <input type="hidden" id="carId">
+            <input type="text" id="model" placeholder="Model" class="border p-2 mr-2">
+            <input type="text" id="brand" placeholder="Brand" class="border p-2 mr-2">
+            <input type="number" id="year" placeholder="Year" class="border p-2 mr-2">
+            <input type="number" id="price" placeholder="Price" class="border p-2 mr-2">
+            <button onclick="saveCar()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                Save Car
+            </button>
+            <button onclick="resetForm()" class="bg-gray-300 hover:bg-gray-500 text-black font-bold py-2 px-4 rounded">
+                Clear Form
+            </button>
+        </div>
+
+        <!-- List of cars -->
+        <div id="carsList" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            fetchCars();
+        });
+
+        function fetchCars() {
+            axios.get('http://127.0.0.1:6969/cars/')
+                .then(function (response) {
+                    const carsList = document.getElementById('carsList');
+                    carsList.innerHTML = '';
+                    response.data.forEach(car => {
+                        carsList.innerHTML += `
+                            <div class="bg-white p-4 rounded shadow">
+                                <h2 class="text-xl font-bold">${car.model} (${car.brand})</h2>
+                                <p>Year: ${car.year}</p>
+                                <p>Price: $${car.price}</p>
+                                <button onclick="deleteCar(${car.sale_id})" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">
+                                    Delete
+                                </button>
+                                <button onclick="editCar(${car.sale_id})" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">
+                                    Edit
+                                </button>
+                            </div>
+                        `;
+                    });
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
+        }
+
+        function saveCar() {
+            const carId = document.getElementById('carId').value;
+            const carData = {
+                model: document.getElementById('model').value,
+                brand: document.getElementById('brand').value,
+                year: parseInt(document.getElementById('year').value),
+                price: parseFloat(document.getElementById('price').value)
+            };
+
+            let url = 'http://127.0.0.1:6969/car/';
+            let method = 'post';
+            if (carId) {
+                url += carId;
+                method = 'put';
+            }
+
+            axios({ method: method, url: url, data: carData })
+                .then(function (response) {
+                    fetchCars();
+                    resetForm();
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
+        }
+
+        function deleteCar(sale_id) {
+            if (!confirm('Are you sure you want to delete this car?')) return;
+            axios.delete('http://127.0.0.1:6969/car/' + sale_id)
+                .then(function (response) {
+                    fetchCars();
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
+        }
+
+        function editCar(sale_id) {
+            axios.get('http://127.0.0.1:6969/car/' + sale_id)
+                .then(function (response) {
+                    const car = response.data;
+                    document.getElementById('carId').value = car.sale_id;
+                    document.getElementById('model').value = car.model;
+                    document.getElementById('brand').value = car.brand;
+                    document.getElementById('year').value = car.year;
+                    document.getElementById('price').value = car.price;
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
+        }
+
+        function resetForm() {
+            document.getElementById('carId').value = '';
+            document.getElementById('model').value = '';
+            document.getElementById('brand').value = '';
+            document.getElementById('year').value = '';
+            document.getElementById('price').value = '';
+        }
+    </script>
+</body>
+</html>

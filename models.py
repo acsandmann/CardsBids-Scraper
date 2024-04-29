@@ -35,6 +35,7 @@ class Car(Base):
     location = Column(String, nullable=True)
     reserve = Column(Boolean, nullable=True)
     url = Column(String)
+    image_url = Column(String)
 
     def __repr__(self):
         return f"<Car(brand='{self.brand}', model='{self.model}', year={self.year}, price={self.price})>"
@@ -54,6 +55,7 @@ class Car(Base):
             "location": self.location,
             "reserve": self.reserve,
             "url": self.url,
+            "image_url": self.image_url,
         }
 
     @staticmethod

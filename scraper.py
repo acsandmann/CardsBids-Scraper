@@ -16,7 +16,7 @@ class Scraper:
         options = Options()
         options.add_argument("--window-size=1920,1200")
         options.add_argument('--disable-blink-features=AutomationControlled')
-        options.add_argument('--headless')
+        #options.add_argument('--headless')
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-gpu')
         self.driver = webdriver.Chrome(options=options)
@@ -83,10 +83,12 @@ class Scraper:
             print(e)
 
     def scrape(self):
-        '''pages = range(1, 396) 
-        with ThreadPoolExecutor(max_workers=15) as executor:
-            executor.map(self.scrape_page, pages)'''
-        self.scrape_page()
+        pages = range(1, 397) 
+        #with ThreadPoolExecutor(max_workers=15) as executor:
+        #    executor.map(self.scrape_page, pages)
+        #self.scrape_page()
+        for p in pages:
+            self.scrape_page(p)
 def main():
     s = Scraper()
     s.scrape()

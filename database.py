@@ -166,6 +166,7 @@ class CarsManager:
         price,
         status,
         url,
+        image_url,
         miles=None,
         transmission=None,
         featured=False,
@@ -198,6 +199,7 @@ class CarsManager:
                 # location=location,
                 # reserve=reserve,
                 url=url,
+                image_url=image_url
             )
             return c
         except:
@@ -225,6 +227,7 @@ class CarsManager:
                                 data["sold_price"],
                                 0,
                                 data["url"],
+                                data['image_url'],
                                 data["mileage"],
                                 data["transmission"],
                             )

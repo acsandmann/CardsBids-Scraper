@@ -3,6 +3,7 @@ from flask import Blueprint, jsonify, make_response, render_template, request, R
 from models import Car
 from sqlalchemy.exc import SQLAlchemyError
 from db import db_session as session
+from sqlalchemy import text
 
 main = Blueprint("main", __name__)
 
@@ -80,8 +81,19 @@ class CarDetail(MethodView):
             session.rollback()
             return make_response(jsonify({"error": str(e)}), 400)
 
+class Brands(MethodView):
+    def get(self):
+        brands = session.execute(text("SELECT DISTINCT brand FROM cars")).all()
+        return jsonify(list(map(lambda x: x[0], brands)))
+    
+class Brand(MethodView):
+    def get(self, brand):
+        cars = session.query(Car).where(Car.brand.ilike(brand)).all()
+        return jsonify([car.to_dict() for car in cars])
 
 main.add_url_rule('/', view_func=IndexSite.as_view('index'))
 main.add_url_rule("/cars/", view_func=ShowCars.as_view("show_users"))
 main.add_url_rule("/car/", view_func=CarDetail.as_view("create_car"), methods=['POST'])
 main.add_url_rule("/car/<int:sale_id>", view_func=CarDetail.as_view("car_details"), methods=['GET', 'PUT', 'DELETE'])
+main.add_url_rule("/brands/", view_func=Brands.as_view("brands"))
+main.add_url_rule("/brand/<string:brand>", view_func=Brand.as_view("brand"))

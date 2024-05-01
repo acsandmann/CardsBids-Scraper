@@ -36,6 +36,7 @@ class Car(Base):
     reserve = Column(Boolean, nullable=True)
     url = Column(String)
     image_url = Column(String)
+    end_date = Column(String)
 
     def __repr__(self):
         return f"<Car(brand='{self.brand}', model='{self.model}', year={self.year}, price={self.price})>"
@@ -56,6 +57,7 @@ class Car(Base):
             "reserve": self.reserve,
             "url": self.url,
             "image_url": self.image_url,
+            "end_date": self.end_date
         }
 
     @staticmethod
@@ -79,4 +81,9 @@ class Car(Base):
 
     @staticmethod
     def extract_car_details(title: str):
-        return int(title.split()[0]), " ".join(title.split()[1:3]).rsplit(" ", 1)
+        parts = title.split()
+        if len(parts) > 1:
+            year = int(parts[0])
+            brand_model = " ".join(parts[1:])
+            model_parts = brand_model.split(" ")
+            return {"year": year, "brand": model_parts[0], "model": " ".join(model_parts[1:])}

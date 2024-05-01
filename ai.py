@@ -66,6 +66,9 @@ search = RandomizedSearchCV(pipeline, param_grid, n_iter=10, cv=5, verbose=2, ra
 search.fit(X_train, y_train)
 
 best_model = search.best_estimator_
+
+dump(best_model, 'best_model_pipeline.joblib')
+
 print("Best model parameters:", search.best_params_)
 
 def predict_car_price(new_data, model):

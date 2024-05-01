@@ -87,3 +87,11 @@ class Car(Base):
             brand_model = " ".join(parts[1:])
             model_parts = brand_model.split(" ")
             return {"year": year, "brand": model_parts[0], "model": " ".join(model_parts[1:])}
+        
+    @staticmethod    
+    def parse_mileage(miles):
+        if miles is not None:
+            match = re.match(r"~?(\d{1,3}(?:,\d{3})*)", miles)
+            if match:
+                return int(match.group(1).replace(",", ""))
+        return None

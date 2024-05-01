@@ -34,15 +34,7 @@ class CarsManager:
     ):
         try:
             d = Car.extract_car_details(title)
-            year, brand, model = d["year"], d["brand"], d["model"]
-            
-            if miles is not None:
-                miles = re.match(r"(\d{1,3}(?:,\d{3})*|~\d+)", miles)
-                if miles and miles.group(0).startswith("~"):
-                    miles = int(miles.group(0)[1:].replace(",", ""))
-                else:
-                    miles = int(miles.group(0).replace(",", ""))
-                
+            year, brand, model = d["year"], d["brand"], d["model"]    
 
             c = Car(
                 sale_id=Car.generate_id(url),
@@ -51,7 +43,7 @@ class CarsManager:
                 year=year,
                 price=float(re.sub(r"[,$]", "", str(price)).strip("$")),
                 status=StatusEnum.sold,
-                miles=miles,
+                miles=Car.parse_mileage(miles),
                 transmission=Car.parse_trans(transmission),
                 # featured=featured,
                 # inspected=inspected,

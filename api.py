@@ -8,7 +8,7 @@ Base.query = db_session.query_property()
 
 def create_app():
     app = Flask(__name__)
-    CORS(app, origins=["http://127.0.0.1:3000", "http://localhost:3000", "https://cb-frontend-kappa.vercel.app/"])
+    CORS(app, origins=["http://127.0.0.1:3000", "http://localhost:3000", "https://cb-frontend-kappa.vercel.app/"], methods=["GET", "POST", "OPTIONS"], supports_credentials=True)
     init_db(Base)
 
     @app.teardown_appcontext

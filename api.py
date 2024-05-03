@@ -23,7 +23,7 @@ def create_app():
 
 if __name__ == "__main__":
     app = create_app()
-    #app.run(host='0.0.0.0', port=6969, debug=True)
-    from waitress import serve
+    app.run(host='0.0.0.0', port=6969, debug=True, ssl_context=('/etc/ssl/certificate.crt', '/etc/ssl/private.key'))
+    #from waitress import serve
     #serve(app, host="0.0.0.0", port=6969)
-    serve(app, listen="*:6969")
+    #serve(app, listen="*:6969")

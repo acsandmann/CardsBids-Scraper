@@ -23,6 +23,6 @@ def create_app():
 
 if __name__ == "__main__":
     app = create_app()
-    #app.run(port=6969, debug=True)
-    from waitress import serve
-    serve(app, host="0.0.0.0", port=6969)
+    app.run(port=6969, debug=True)
+    #from waitress import serve
+    #serve(app, host="0.0.0.0", port=6969)

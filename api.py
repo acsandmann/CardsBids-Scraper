@@ -8,7 +8,7 @@ Base.query = db_session.query_property()
 
 def create_app():
     app = Flask(__name__)
-    CORS(app, origins=["http://127.0.0.1:3000", "http://localhost:3000"])
+    CORS(app, origins=["http://127.0.0.1:3000", "http://localhost:3000", "https://cb-frontend-kappa.vercel.app/"])
     init_db(Base)
 
     @app.teardown_appcontext
@@ -23,4 +23,6 @@ def create_app():
 
 if __name__ == "__main__":
     app = create_app()
-    app.run(port=6969, debug=True)
+    #app.run(port=6969, debug=True)
+    from waitress import serve
+    serve(app, host="0.0.0.0", port=6969)

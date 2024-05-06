@@ -27,6 +27,10 @@ class CarsManager:
         end_date,
         miles=None,
         transmission=None,
+        horsepower=None,
+        modifications=None,
+        ownership=None,
+        extra=None,
         featured=False,
         inspected=False,
         location=None,
@@ -45,13 +49,17 @@ class CarsManager:
                 status=StatusEnum.sold,
                 miles=Car.parse_mileage(miles),
                 transmission=Car.parse_trans(transmission),
-                # featured=featured,
-                # inspected=inspected,
-                # location=location,
-                # reserve=reserve,
+                featured=featured,
+                inspected=inspected,
+                location=location,
+                reserve=reserve,
                 url=url,
                 image_url=image_url,
                 end_date=end_date,
+                horsepower=horsepower,
+                modifications=modifications,
+                ownership=ownership,
+                extra=extra,
             )
             return c
         except Exception as e:
@@ -84,6 +92,10 @@ class CarsManager:
                             data["end_date"],
                             data["mileage"],
                             data["transmission"],
+                            data["engine"],
+                            data["modifications"],
+                            data["ownership"],
+                            data["extra"]
                         )
                         if c:
                             new_cars.append(c)

@@ -1,0 +1,5010 @@
+[
+    {
+        "Model": "2021 Tesla Model 3 Standard Range Plus RWD",
+        "Range": "263",
+        "City Efficiency": "150",
+        "Highway Efficiency": "133",
+        "Combined Efficiency": "142",
+        "Kwh/100mi": "24"
+    },
+    {
+        "Model": "2020 Tesla Model 3 Standard Range Plus",
+        "Range": "250",
+        "City Efficiency": "148",
+        "Highway Efficiency": "132",
+        "Combined Efficiency": "141",
+        "Kwh/100mi": "24"
+    },
+    {
+        "Model": "2024 Hyundai Ioniq 6 Long range RWD (18 inch Wheels)",
+        "Range": "361",
+        "City Efficiency": "153",
+        "Highway Efficiency": "127",
+        "Combined Efficiency": "140",
+        "Kwh/100mi": "24"
+    },
+    {
+        "Model": "2023 Hyundai Ioniq 6 Long range RWD (18 inch Wheels)",
+        "Range": "361",
+        "City Efficiency": "153",
+        "Highway Efficiency": "127",
+        "Combined Efficiency": "140",
+        "Kwh/100mi": "24"
+    },
+    {
+        "Model": "2023 Lucid Air Pure AWD with 19 inch wheels",
+        "Range": "410",
+        "City Efficiency": "141",
+        "Highway Efficiency": "140",
+        "Combined Efficiency": "140",
+        "Kwh/100mi": "24"
+    },
+    {
+        "Model": "2023 Lucid Air Touring AWD with 19 inch wheels",
+        "Range": "425",
+        "City Efficiency": "141",
+        "Highway Efficiency": "140",
+        "Combined Efficiency": "140",
+        "Kwh/100mi": "24"
+    },
+    {
+        "Model": "2024 Lucid Air Pure RWD with 19 inch wheels",
+        "Range": "419",
+        "City Efficiency": "140",
+        "Highway Efficiency": "134",
+        "Combined Efficiency": "137",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2019 Hyundai Ioniq Electric",
+        "Range": "124",
+        "City Efficiency": "150",
+        "Highway Efficiency": "122",
+        "Combined Efficiency": "136",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2018 Hyundai Ioniq Electric",
+        "Range": "124",
+        "City Efficiency": "150",
+        "Highway Efficiency": "122",
+        "Combined Efficiency": "136",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2017 Hyundai Ioniq Electric",
+        "Range": "124",
+        "City Efficiency": "150",
+        "Highway Efficiency": "122",
+        "Combined Efficiency": "136",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2024 Hyundai Ioniq 6 Standard Range RWD",
+        "Range": "240",
+        "City Efficiency": "151",
+        "Highway Efficiency": "120",
+        "Combined Efficiency": "135",
+        "Kwh/100mi": "24"
+    },
+    {
+        "Model": "2023 Hyundai Ioniq 6 Standard Range RWD",
+        "Range": "240",
+        "City Efficiency": "151",
+        "Highway Efficiency": "120",
+        "Combined Efficiency": "135",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2021 Tesla Model 3 Long Range AWD",
+        "Range": "353",
+        "City Efficiency": "141",
+        "Highway Efficiency": "127",
+        "Combined Efficiency": "134",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2021 Hyundai Ioniq Electric",
+        "Range": "170",
+        "City Efficiency": "145",
+        "Highway Efficiency": "121",
+        "Combined Efficiency": "133",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2020 Hyundai Ioniq Electric",
+        "Range": "170",
+        "City Efficiency": "145",
+        "Highway Efficiency": "121",
+        "Combined Efficiency": "133",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2019 Tesla Model 3 Standard Range Plus",
+        "Range": "240",
+        "City Efficiency": "140",
+        "Highway Efficiency": "124",
+        "Combined Efficiency": "133",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2023 Tesla Model 3 RWD",
+        "Range": "272",
+        "City Efficiency": "138",
+        "Highway Efficiency": "126",
+        "Combined Efficiency": "132",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2022 Tesla Model 3 RWD",
+        "Range": "272",
+        "City Efficiency": "138",
+        "Highway Efficiency": "126",
+        "Combined Efficiency": "132",
+        "Kwh/100mi": "25"
+    },
+    {
+        "Model": "2020 Tesla Model 3 Standard Range",
+        "Range": "220",
+        "City Efficiency": "138",
+        "Highway Efficiency": "124",
+        "Combined Efficiency": "131",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2019 Tesla Model 3 Standard Range",
+        "Range": "220",
+        "City Efficiency": "138",
+        "Highway Efficiency": "124",
+        "Combined Efficiency": "131",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2023 Tesla Model 3 Long Range AWD",
+        "Range": "358",
+        "City Efficiency": "134",
+        "Highway Efficiency": "126",
+        "Combined Efficiency": "131",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2022 Tesla Model 3 Long Range AWD",
+        "Range": "358",
+        "City Efficiency": "134",
+        "Highway Efficiency": "126",
+        "Combined Efficiency": "131",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2022 Lucid Air G Touring AWD w/19 inch wheels",
+        "Range": "516",
+        "City Efficiency": "130",
+        "Highway Efficiency": "132",
+        "Combined Efficiency": "131",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2023 Lucid Air G Touring XR AWD with 19 inch wheels",
+        "Range": "516",
+        "City Efficiency": "130",
+        "Highway Efficiency": "132",
+        "Combined Efficiency": "131",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2020 Tesla Model 3 Long Range",
+        "Range": "330",
+        "City Efficiency": "136",
+        "Highway Efficiency": "123",
+        "Combined Efficiency": "130",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2019 Tesla Model 3 Long Range",
+        "Range": "310",
+        "City Efficiency": "136",
+        "Highway Efficiency": "123",
+        "Combined Efficiency": "130",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2018 Tesla Model 3 Long Range",
+        "Range": "310",
+        "City Efficiency": "136",
+        "Highway Efficiency": "123",
+        "Combined Efficiency": "130",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2024 Lucid Air Pure RWD with 20 inch wheels",
+        "Range": "394",
+        "City Efficiency": "134",
+        "Highway Efficiency": "126",
+        "Combined Efficiency": "130",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2022 Tesla Model Y RWD",
+        "Range": "244",
+        "City Efficiency": "140",
+        "Highway Efficiency": "119",
+        "Combined Efficiency": "129",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2021 Tesla Model Y Standard Range RWD",
+        "Range": "244",
+        "City Efficiency": "140",
+        "Highway Efficiency": "119",
+        "Combined Efficiency": "129",
+        "Kwh/100mi": "26"
+    },
+    {
+        "Model": "2017 Tesla Model 3 Long Range",
+        "Range": "310",
+        "City Efficiency": "131",
+        "Highway Efficiency": "120",
+        "Combined Efficiency": "126",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2021 Tesla Model Y Long Range AWD",
+        "Range": "326",
+        "City Efficiency": "131",
+        "Highway Efficiency": "117",
+        "Combined Efficiency": "125",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2022 Lucid Air Dream R AWD w/19 inch wheels",
+        "Range": "520",
+        "City Efficiency": "126",
+        "Highway Efficiency": "125",
+        "Combined Efficiency": "125",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2016 BMW i3 BEV",
+        "Range": "81",
+        "City Efficiency": "137",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "124",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2015 BMW i3 BEV",
+        "Range": "81",
+        "City Efficiency": "137",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "124",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2014 BMW i3 BEV",
+        "Range": "81",
+        "City Efficiency": "137",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "124",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2017 BMW i3 BEV (60 Amp-hour battery)",
+        "Range": "81",
+        "City Efficiency": "137",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "124",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2023 Tesla Model Y AWD",
+        "Range": "279",
+        "City Efficiency": "129",
+        "Highway Efficiency": "116",
+        "Combined Efficiency": "123",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2022 Tesla Model Y AWD",
+        "Range": "279",
+        "City Efficiency": "129",
+        "Highway Efficiency": "116",
+        "Combined Efficiency": "123",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2020 Tesla Model 3 Mid Range",
+        "Range": "264",
+        "City Efficiency": "128",
+        "Highway Efficiency": "117",
+        "Combined Efficiency": "123",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2019 Tesla Model 3 Mid Range",
+        "Range": "264",
+        "City Efficiency": "128",
+        "Highway Efficiency": "117",
+        "Combined Efficiency": "123",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2018 Tesla Model 3 Mid Range",
+        "Range": "260",
+        "City Efficiency": "128",
+        "Highway Efficiency": "117",
+        "Combined Efficiency": "123",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2023 Tesla Model Y Long Range AWD",
+        "Range": "330",
+        "City Efficiency": "127",
+        "Highway Efficiency": "117",
+        "Combined Efficiency": "122",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2022 Tesla Model Y Long Range AWD",
+        "Range": "330",
+        "City Efficiency": "127",
+        "Highway Efficiency": "117",
+        "Combined Efficiency": "122",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2013 Scion iQ EV",
+        "Range": "38",
+        "City Efficiency": "138",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2024 Hyundai Ioniq 6 Long range AWD (18 inch Wheels)",
+        "Range": "316",
+        "City Efficiency": "130",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2023 Hyundai Ioniq 6 Long range AWD (18 inch Wheels)",
+        "Range": "316",
+        "City Efficiency": "130",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2020 Tesla Model Y Performance AWD",
+        "Range": "315",
+        "City Efficiency": "129",
+        "Highway Efficiency": "112",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2020 Tesla Model Y Long Range AWD",
+        "Range": "316",
+        "City Efficiency": "127",
+        "Highway Efficiency": "114",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2020 Tesla Model 3 Long Range AWD",
+        "Range": "322",
+        "City Efficiency": "124",
+        "Highway Efficiency": "116",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2020 Tesla Model 3 Long Range Performance AWD (18in)",
+        "Range": "322",
+        "City Efficiency": "124",
+        "Highway Efficiency": "116",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2022 Lucid Air G Touring AWD w/21 inch wheels",
+        "Range": "469",
+        "City Efficiency": "121",
+        "Highway Efficiency": "122",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Lucid Air G Touring XR AWD with 20 inch wheels",
+        "Range": "469",
+        "City Efficiency": "121",
+        "Highway Efficiency": "122",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Lucid Air G Touring XR AWD with 21 inch wheels",
+        "Range": "469",
+        "City Efficiency": "121",
+        "Highway Efficiency": "122",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Lucid Air Pure AWD with 20 inch wheels",
+        "Range": "384",
+        "City Efficiency": "121",
+        "Highway Efficiency": "120",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Lucid Air Touring AWD with 20 inch wheels",
+        "Range": "384",
+        "City Efficiency": "121",
+        "Highway Efficiency": "120",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Lucid Air Touring AWD with 21 inch wheels",
+        "Range": "384",
+        "City Efficiency": "121",
+        "Highway Efficiency": "120",
+        "Combined Efficiency": "121",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Hyundai Kona Electric",
+        "Range": "258",
+        "City Efficiency": "134",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2022 Hyundai Kona Electric",
+        "Range": "258",
+        "City Efficiency": "132",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2021 Hyundai Kona Electric",
+        "Range": "258",
+        "City Efficiency": "132",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2020 Hyundai Kona Electric",
+        "Range": "258",
+        "City Efficiency": "132",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2019 Hyundai Kona Electric",
+        "Range": "258",
+        "City Efficiency": "132",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Chevrolet Bolt EV",
+        "Range": "259",
+        "City Efficiency": "131",
+        "Highway Efficiency": "109",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2022 Chevrolet Bolt EV",
+        "Range": "259",
+        "City Efficiency": "131",
+        "Highway Efficiency": "109",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Tesla Model S",
+        "Range": "405",
+        "City Efficiency": "124",
+        "Highway Efficiency": "115",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2022 Tesla Model S",
+        "Range": "405",
+        "City Efficiency": "124",
+        "Highway Efficiency": "115",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2021 Tesla Model S Long Range",
+        "Range": "405",
+        "City Efficiency": "124",
+        "Highway Efficiency": "115",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2024 BMW i4 eDrive35 Gran Coupe (18 inch Wheels)",
+        "Range": "276",
+        "City Efficiency": "122",
+        "Highway Efficiency": "119",
+        "Combined Efficiency": "120",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Toyota bZ4X",
+        "Range": "252",
+        "City Efficiency": "131",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2019 Chevrolet Bolt EV",
+        "Range": "238",
+        "City Efficiency": "128",
+        "Highway Efficiency": "110",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2018 Chevrolet Bolt EV",
+        "Range": "238",
+        "City Efficiency": "128",
+        "Highway Efficiency": "110",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2017 Chevrolet Bolt EV",
+        "Range": "238",
+        "City Efficiency": "128",
+        "Highway Efficiency": "110",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2016 Chevrolet Spark EV",
+        "Range": "82",
+        "City Efficiency": "128",
+        "Highway Efficiency": "109",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2015 Chevrolet Spark EV",
+        "Range": "82",
+        "City Efficiency": "128",
+        "Highway Efficiency": "109",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2014 Chevrolet Spark EV",
+        "Range": "82",
+        "City Efficiency": "128",
+        "Highway Efficiency": "109",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2019 Volkswagen e-Golf",
+        "Range": "125",
+        "City Efficiency": "126",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2018 Volkswagen e-Golf",
+        "Range": "125",
+        "City Efficiency": "126",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2017 Volkswagen e-Golf",
+        "Range": "125",
+        "City Efficiency": "126",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "119",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2014 Honda Fit EV",
+        "Range": "82",
+        "City Efficiency": "132",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "118",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2013 Honda Fit EV",
+        "Range": "82",
+        "City Efficiency": "132",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "118",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2018 BMW i3 (94Ah)",
+        "Range": "114",
+        "City Efficiency": "129",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "118",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2017 BMW i3 BEV (94 Amp-hour battery)",
+        "Range": "114",
+        "City Efficiency": "129",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "118",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2021 Chevrolet Bolt EV",
+        "Range": "259",
+        "City Efficiency": "127",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "118",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2020 Chevrolet Bolt EV",
+        "Range": "259",
+        "City Efficiency": "127",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "118",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2022 Kia EV6 RWD (Standard Range)",
+        "Range": "232",
+        "City Efficiency": "136",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2024 Kia EV6 Standard Range RWD",
+        "Range": "232",
+        "City Efficiency": "136",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Kia EV6 Standard Range RWD",
+        "Range": "232",
+        "City Efficiency": "136",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2024 Kia EV6 Long Range RWD",
+        "Range": "310",
+        "City Efficiency": "134",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2023 Kia EV6 Long Range RWD",
+        "Range": "310",
+        "City Efficiency": "134",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "28"
+    },
+    {
+        "Model": "2022 Kia EV6 RWD (Long Range)",
+        "Range": "310",
+        "City Efficiency": "134",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2024 Hyundai Ioniq 6 Long range RWD (20 inch Wheels)",
+        "Range": "305",
+        "City Efficiency": "129",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "27"
+    },
+    {
+        "Model": "2023 Hyundai Ioniq 6 Long range RWD (20 inch Wheels)",
+        "Range": "305",
+        "City Efficiency": "129",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2020 Tesla Model S Long Range Plus",
+        "Range": "402",
+        "City Efficiency": "121",
+        "Highway Efficiency": "112",
+        "Combined Efficiency": "117",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2024 Hyundai Kona Electric Long Range",
+        "Range": "261",
+        "City Efficiency": "129",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2016 Volkswagen e-Golf",
+        "Range": "83",
+        "City Efficiency": "126",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2015 Volkswagen e-Golf",
+        "Range": "83",
+        "City Efficiency": "126",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2015 Fiat 500e",
+        "Range": "87",
+        "City Efficiency": "122",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2014 Fiat 500e",
+        "Range": "87",
+        "City Efficiency": "122",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2013 Fiat 500e",
+        "Range": "87",
+        "City Efficiency": "122",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2018 Tesla Model 3 Long Range AWD",
+        "Range": "310",
+        "City Efficiency": "120",
+        "Highway Efficiency": "112",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2018 Tesla Model 3 Long Range AWD Performance",
+        "Range": "310",
+        "City Efficiency": "120",
+        "Highway Efficiency": "112",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2019 Tesla Model 3 Long Range AWD",
+        "Range": "310",
+        "City Efficiency": "120",
+        "Highway Efficiency": "112",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2019 Tesla Model 3 Long Range AWD Performance",
+        "Range": "310",
+        "City Efficiency": "120",
+        "Highway Efficiency": "112",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2020 Tesla Model 3 Long Range Performance AWD (19in)",
+        "Range": "304",
+        "City Efficiency": "119",
+        "Highway Efficiency": "112",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2022 Tesla Model S Plaid (19 inch wheels)",
+        "Range": "396",
+        "City Efficiency": "119",
+        "Highway Efficiency": "112",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2022 Lucid Air Dream P AWD w/19 inch wheels",
+        "Range": "471",
+        "City Efficiency": "117",
+        "Highway Efficiency": "114",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2022 Lucid Air Dream R AWD w/21 inch wheels",
+        "Range": "481",
+        "City Efficiency": "115",
+        "Highway Efficiency": "117",
+        "Combined Efficiency": "116",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2013 Nissan Leaf",
+        "Range": "75",
+        "City Efficiency": "129",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "115",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2023 Chevrolet Bolt EUV",
+        "Range": "247",
+        "City Efficiency": "125",
+        "Highway Efficiency": "104",
+        "Combined Efficiency": "115",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2022 Chevrolet Bolt EUV",
+        "Range": "247",
+        "City Efficiency": "125",
+        "Highway Efficiency": "104",
+        "Combined Efficiency": "115",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2024 Polestar 2 Single Motor (19 Inch Wheels)",
+        "Range": "320",
+        "City Efficiency": "124",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "115",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2024 Hyundai Ioniq 5 Long range RWD",
+        "Range": "303",
+        "City Efficiency": "132",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2022 Hyundai Ioniq 5 RWD (Long Range)",
+        "Range": "303",
+        "City Efficiency": "132",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2021 Kandi K27",
+        "Range": "59",
+        "City Efficiency": "127",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2020 Kia Soul Electric",
+        "Range": "243",
+        "City Efficiency": "127",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2019 Honda Clarity EV",
+        "Range": "89",
+        "City Efficiency": "126",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2018 Honda Clarity EV",
+        "Range": "89",
+        "City Efficiency": "126",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2017 Honda Clarity EV",
+        "Range": "89",
+        "City Efficiency": "126",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2015 Nissan Leaf",
+        "Range": "84",
+        "City Efficiency": "126",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2014 Nissan Leaf",
+        "Range": "84",
+        "City Efficiency": "126",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2016 Nissan Leaf (24 kW-hr battery pack)",
+        "Range": "84",
+        "City Efficiency": "126",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2023 Toyota bZ4X LIMITED",
+        "Range": "242",
+        "City Efficiency": "125",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "114",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2024 Kia Niro Electric",
+        "Range": "253",
+        "City Efficiency": "126",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2023 Kia Niro Electric",
+        "Range": "253",
+        "City Efficiency": "126",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2021 BMW i3",
+        "Range": "153",
+        "City Efficiency": "124",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2020 BMW i3",
+        "Range": "153",
+        "City Efficiency": "124",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2019 BMW i3",
+        "Range": "153",
+        "City Efficiency": "124",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2021 BMW i3s",
+        "Range": "153",
+        "City Efficiency": "124",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2020 BMW i3s",
+        "Range": "153",
+        "City Efficiency": "124",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2019 BMW i3s",
+        "Range": "153",
+        "City Efficiency": "124",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2024 Volkswagen ID.4 Pro",
+        "Range": "291",
+        "City Efficiency": "122",
+        "Highway Efficiency": "104",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2020 Tesla Model 3 Long Range Performance AWD (20in)",
+        "Range": "299",
+        "City Efficiency": "118",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2023 Tesla Model 3 Performance AWD",
+        "Range": "315",
+        "City Efficiency": "118",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2022 Tesla Model 3 Performance AWD",
+        "Range": "315",
+        "City Efficiency": "118",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2021 Tesla Model 3 Performance AWD",
+        "Range": "315",
+        "City Efficiency": "118",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2023 BMW i4 eDrive35 Gran Coupe (18 inch Wheels)",
+        "Range": "256",
+        "City Efficiency": "115",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "113",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2018 BMW i3s (94Ah)",
+        "Range": "107",
+        "City Efficiency": "126",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2016 Mitsubishi i-MiEV",
+        "Range": "62",
+        "City Efficiency": "126",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2014 Mitsubishi i-MiEV",
+        "Range": "62",
+        "City Efficiency": "126",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2013 Mitsubishi i-MiEV",
+        "Range": "62",
+        "City Efficiency": "126",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2012 Mitsubishi i-MiEV",
+        "Range": "62",
+        "City Efficiency": "126",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2018 Nissan Leaf",
+        "Range": "151",
+        "City Efficiency": "125",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2024 Genesis GV60 Standard",
+        "Range": "294",
+        "City Efficiency": "125",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2017 Nissan Leaf",
+        "Range": "107",
+        "City Efficiency": "124",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2016 Nissan Leaf (30 kW-hr battery pack)",
+        "Range": "107",
+        "City Efficiency": "124",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2019 Nissan Leaf (40 kW-hr battery pack)",
+        "Range": "150",
+        "City Efficiency": "124",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2022 Kia Niro Electric",
+        "Range": "239",
+        "City Efficiency": "123",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2021 Kia Niro Electric",
+        "Range": "239",
+        "City Efficiency": "123",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2020 Kia Niro Electric",
+        "Range": "239",
+        "City Efficiency": "123",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2019 Kia Niro Electric",
+        "Range": "239",
+        "City Efficiency": "123",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2019 Fiat 500e",
+        "Range": "84",
+        "City Efficiency": "121",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2018 Fiat 500e",
+        "Range": "84",
+        "City Efficiency": "121",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2017 Fiat 500e",
+        "Range": "84",
+        "City Efficiency": "121",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2016 Fiat 500e",
+        "Range": "84",
+        "City Efficiency": "121",
+        "Highway Efficiency": "103",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2017 Mitsubishi i-MiEV",
+        "Range": "59",
+        "City Efficiency": "121",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "112",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2024 Nissan LEAF",
+        "Range": "149",
+        "City Efficiency": "123",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2023 Nissan LEAF",
+        "Range": "149",
+        "City Efficiency": "123",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2022 Nissan Leaf (40 kW-hr battery pack)",
+        "Range": "149",
+        "City Efficiency": "123",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2021 Nissan Leaf (40 kW-hr battery pack)",
+        "Range": "149",
+        "City Efficiency": "123",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2020 Nissan Leaf (40 kW-hr battery pack)",
+        "Range": "149",
+        "City Efficiency": "123",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2024 Polestar 2 Single Motor (20 Inch Wheels)",
+        "Range": "307",
+        "City Efficiency": "119",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "29"
+    },
+    {
+        "Model": "2020 Tesla Model Y Performance AWD (21in Wheels)",
+        "Range": "291",
+        "City Efficiency": "116",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2020 Tesla Model S Long Range",
+        "Range": "373",
+        "City Efficiency": "115",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2019 Tesla Model S Long Range",
+        "Range": "370",
+        "City Efficiency": "115",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2023 Tesla Model Y Performance AWD",
+        "Range": "303",
+        "City Efficiency": "115",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2022 Tesla Model Y Performance AWD",
+        "Range": "303",
+        "City Efficiency": "115",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2021 Tesla Model Y Performance AWD",
+        "Range": "303",
+        "City Efficiency": "115",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2022 Lucid Air Dream P AWD w/21 inch wheels",
+        "Range": "451",
+        "City Efficiency": "110",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2023 Lucid Air GT P AWD with 21 inch wheels",
+        "Range": "446",
+        "City Efficiency": "110",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "111",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2022 Hyundai Ioniq 5 RWD (Standard Range)",
+        "Range": "220",
+        "City Efficiency": "127",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "110",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2024 Hyundai Ioniq 5 Standard range RWD",
+        "Range": "220",
+        "City Efficiency": "127",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "110",
+        "Kwh/100mi": "30"
+    },
+    {
+        "Model": "2024 MINI Cooper SE Hardtop 2 door",
+        "Range": "114",
+        "City Efficiency": "119",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "110",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2023 MINI Cooper SE Hardtop 2 door",
+        "Range": "114",
+        "City Efficiency": "119",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "110",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2022 MINI Cooper SE Hardtop 2 door",
+        "Range": "114",
+        "City Efficiency": "119",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "110",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2021 Tesla Model S Performance (19in Wheels)",
+        "Range": "387",
+        "City Efficiency": "114",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "110",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2024 BMW i4 eDrive35 Gran Coupe (19 inch Wheels)",
+        "Range": "252",
+        "City Efficiency": "111",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "110",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2024 Nissan LEAF SV",
+        "Range": "212",
+        "City Efficiency": "121",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2023 Nissan LEAF SV",
+        "Range": "212",
+        "City Efficiency": "121",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2023 Kia EV6 Long Range AWD (19 inch tires)",
+        "Range": "282",
+        "City Efficiency": "120",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2024 Kia EV6 Long Range AWD (19 inch Wheels)",
+        "Range": "282",
+        "City Efficiency": "120",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2020 Tesla Model S Standard Range",
+        "Range": "287",
+        "City Efficiency": "113",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2019 Tesla Model S Standard Range",
+        "Range": "285",
+        "City Efficiency": "113",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2024 BMW i4 eDrive40 Gran Coupe (18 inch Wheels)",
+        "Range": "301",
+        "City Efficiency": "109",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2023 BMW i4 eDrive40 Gran Coupe (18 inch wheels)",
+        "Range": "301",
+        "City Efficiency": "109",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2022 BMW i4 eDrive40 Gran Coupe (18 inch wheels)",
+        "Range": "301",
+        "City Efficiency": "109",
+        "Highway Efficiency": "108",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2024 BMW i4 xDrive40 Gran Coupe (18 inch Wheels)",
+        "Range": "307",
+        "City Efficiency": "107",
+        "Highway Efficiency": "111",
+        "Combined Efficiency": "109",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2019 smart EQ fortwo (coupe)",
+        "Range": "58",
+        "City Efficiency": "124",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2018 smart fortwo electric drive coupe",
+        "Range": "58",
+        "City Efficiency": "124",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2017 smart fortwo electric drive coupe",
+        "Range": "58",
+        "City Efficiency": "124",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2019 Kia Soul Electric",
+        "Range": "111",
+        "City Efficiency": "124",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2018 Kia Soul Electric",
+        "Range": "111",
+        "City Efficiency": "124",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2022 Nissan Leaf (62 kW-hr battery pack)",
+        "Range": "226",
+        "City Efficiency": "118",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2021 Nissan Leaf (62 kW-hr battery pack)",
+        "Range": "226",
+        "City Efficiency": "118",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2020 Nissan Leaf (62 kW-hr battery pack)",
+        "Range": "226",
+        "City Efficiency": "118",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2019 Nissan Leaf (62 kW-hr battery pack)",
+        "Range": "226",
+        "City Efficiency": "118",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2021 MINI Cooper SE Hardtop 2 door",
+        "Range": "110",
+        "City Efficiency": "115",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2020 MINI Cooper SE Hardtop 2 door",
+        "Range": "110",
+        "City Efficiency": "115",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "108",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2016 smart fortwo electric drive convertible",
+        "Range": "68",
+        "City Efficiency": "122",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2015 smart fortwo electric drive convertible",
+        "Range": "68",
+        "City Efficiency": "122",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2014 smart fortwo electric drive convertible",
+        "Range": "68",
+        "City Efficiency": "122",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2013 smart fortwo electric drive convertible",
+        "Range": "68",
+        "City Efficiency": "122",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2016 smart fortwo electric drive coupe",
+        "Range": "68",
+        "City Efficiency": "122",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2015 smart fortwo electric drive coupe",
+        "Range": "68",
+        "City Efficiency": "122",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2014 smart fortwo electric drive coupe",
+        "Range": "68",
+        "City Efficiency": "122",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2013 smart fortwo electric drive coupe",
+        "Range": "68",
+        "City Efficiency": "122",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2018 Ford Focus Electric",
+        "Range": "115",
+        "City Efficiency": "118",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2017 Ford Focus Electric",
+        "Range": "115",
+        "City Efficiency": "118",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2024 Volvo C40 Recharge",
+        "Range": "297",
+        "City Efficiency": "118",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2022 Volkswagen ID.4 Pro",
+        "Range": "275",
+        "City Efficiency": "116",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2023 Volkswagen ID.4",
+        "Range": "209",
+        "City Efficiency": "115",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2023 Volkswagen ID.4 S",
+        "Range": "209",
+        "City Efficiency": "115",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2023 Lexus RZ 450e AWD (18 inch Wheels)",
+        "Range": "220",
+        "City Efficiency": "115",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2023 Volkswagen ID.4 Pro",
+        "Range": "275",
+        "City Efficiency": "115",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2023 Volkswagen ID.4 Pro S",
+        "Range": "275",
+        "City Efficiency": "115",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2023 Polestar 2 Single Motor",
+        "Range": "270",
+        "City Efficiency": "113",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2022 Polestar 2 Single Motor",
+        "Range": "270",
+        "City Efficiency": "113",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "107",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2024 Volvo XC40 Recharge",
+        "Range": "293",
+        "City Efficiency": "118",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "106",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2024 Polestar 2 Dual Motor (19 Inch Wheels)",
+        "Range": "276",
+        "City Efficiency": "112",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "106",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2017 Kia Soul Electric",
+        "Range": "93",
+        "City Efficiency": "120",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2016 Kia Soul Electric",
+        "Range": "93",
+        "City Efficiency": "120",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2015 Kia Soul Electric",
+        "Range": "93",
+        "City Efficiency": "120",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2022 Kia EV6 AWD (Long Range)",
+        "Range": "274",
+        "City Efficiency": "116",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2016 Ford Focus Electric",
+        "Range": "76",
+        "City Efficiency": "110",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2015 Ford Focus Electric",
+        "Range": "76",
+        "City Efficiency": "110",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2014 Ford Focus Electric",
+        "Range": "76",
+        "City Efficiency": "110",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2013 Ford Focus Electric",
+        "Range": "76",
+        "City Efficiency": "110",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2012 Ford Focus Electric",
+        "Range": "76",
+        "City Efficiency": "110",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2021 Tesla Model X Long Range Plus",
+        "Range": "371",
+        "City Efficiency": "109",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2024 Lucid Air Sapphire AWD",
+        "Range": "427",
+        "City Efficiency": "108",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2020 Tesla Model X Long Range Plus",
+        "Range": "351",
+        "City Efficiency": "108",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2023 BMW i4 eDrive35 Gran Coupe (19 inch Wheels)",
+        "Range": "235",
+        "City Efficiency": "107",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2024 BMW i5 eDrive40 Sedan (19 inch Wheels)",
+        "Range": "295",
+        "City Efficiency": "104",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "105",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2022 Nissan Leaf SV/SL (62 kW-hr battery pack)",
+        "Range": "215",
+        "City Efficiency": "114",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2021 Nissan Leaf SV/SL (62 kW-hr battery pack)",
+        "Range": "215",
+        "City Efficiency": "114",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2020 Nissan Leaf SV/SL (62 kW-hr battery pack)",
+        "Range": "215",
+        "City Efficiency": "114",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2019 Nissan Leaf SV/SL (62 kW-hr battery pack)",
+        "Range": "215",
+        "City Efficiency": "114",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2024 Subaru Solterra AWD",
+        "Range": "227",
+        "City Efficiency": "114",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2023 Subaru Solterra AWD",
+        "Range": "228",
+        "City Efficiency": "114",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2023 Toyota bZ4X AWD",
+        "Range": "228",
+        "City Efficiency": "114",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2020 Tesla Model S Performance (19in Wheels)",
+        "Range": "348",
+        "City Efficiency": "104",
+        "Highway Efficiency": "104",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2019 Tesla Model S Performance (19in Wheels)",
+        "Range": "345",
+        "City Efficiency": "104",
+        "Highway Efficiency": "104",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2017 Tesla Model S AWD - 90D",
+        "Range": "294",
+        "City Efficiency": "102",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2017 Tesla Model S AWD - 60D",
+        "Range": "218",
+        "City Efficiency": "101",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2016 Tesla Model S AWD - 60D",
+        "Range": "218",
+        "City Efficiency": "101",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "104",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2024 Audi Q4 40 e-tron",
+        "Range": "265",
+        "City Efficiency": "112",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Audi Q4 e-tron",
+        "Range": "265",
+        "City Efficiency": "112",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Nissan ARIYA VENTURE Plus FWD 87kWh",
+        "Range": "304",
+        "City Efficiency": "111",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2024 Hyundai Ioniq 6 Long range AWD (20 inch Wheels)",
+        "Range": "270",
+        "City Efficiency": "111",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Hyundai Ioniq 6 Long range AWD (20 inch Wheels)",
+        "Range": "270",
+        "City Efficiency": "111",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Ford Mustang Mach-E RWD",
+        "Range": "247",
+        "City Efficiency": "110",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2022 Ford Mustang Mach-E RWD",
+        "Range": "247",
+        "City Efficiency": "110",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2019 Tesla Model S 75D",
+        "Range": "259",
+        "City Efficiency": "102",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2018 Tesla Model S 75D",
+        "Range": "259",
+        "City Efficiency": "102",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2017 Tesla Model S AWD - 75D",
+        "Range": "259",
+        "City Efficiency": "102",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2016 Tesla Model S AWD - 75D",
+        "Range": "259",
+        "City Efficiency": "102",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2016 Tesla Model S AWD - 90D",
+        "Range": "294",
+        "City Efficiency": "101",
+        "Highway Efficiency": "107",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Mercedes-Benz EQS 450 4matic",
+        "Range": "340",
+        "City Efficiency": "101",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "103",
+        "Kwh/100mi": "31"
+    },
+    {
+        "Model": "2023 Toyota bZ4X LIMITED AWD",
+        "Range": "222",
+        "City Efficiency": "112",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2019 smart EQ fortwo (convertible)",
+        "Range": "57",
+        "City Efficiency": "112",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2018 smart fortwo electric drive convertible",
+        "Range": "57",
+        "City Efficiency": "112",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2017 smart fortwo electric drive convertible",
+        "Range": "57",
+        "City Efficiency": "112",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2024 Subaru Solterra Limited/Touring AWD",
+        "Range": "222",
+        "City Efficiency": "111",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Subaru Solterra Limited/Touring AWD",
+        "Range": "222",
+        "City Efficiency": "111",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2022 Volkswagen ID.4 Pro S",
+        "Range": "262",
+        "City Efficiency": "110",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2024 Polestar 2 Dual Motor (20 Inch Wheels)",
+        "Range": "266",
+        "City Efficiency": "108",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2024 Volkswagen ID.4 AWD Pro",
+        "Range": "263",
+        "City Efficiency": "108",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2024 Volkswagen ID.4 AWD Pro S",
+        "Range": "263",
+        "City Efficiency": "108",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Tesla Model X",
+        "Range": "348",
+        "City Efficiency": "107",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2022 Tesla Model X",
+        "Range": "348",
+        "City Efficiency": "107",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2011 BMW Active E",
+        "Range": "94",
+        "City Efficiency": "107",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2019 Tesla Model S 100D",
+        "Range": "335",
+        "City Efficiency": "101",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2018 Tesla Model S 100D",
+        "Range": "335",
+        "City Efficiency": "101",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2017 Tesla Model S AWD - 100D",
+        "Range": "335",
+        "City Efficiency": "101",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "102",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Nissan ARIYA ENGAGE FWD 63kWh",
+        "Range": "216",
+        "City Efficiency": "109",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2022 Ford Mustang Mach-E CAL RT 1 ER RWD",
+        "Range": "314",
+        "City Efficiency": "108",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2021 Ford Mustang Mach-E RWD California Route 1",
+        "Range": "305",
+        "City Efficiency": "108",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Ford Mustang Mach-E RWD LFP",
+        "Range": "250",
+        "City Efficiency": "107",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2022 Volkswagen ID.4 AWD Pro",
+        "Range": "251",
+        "City Efficiency": "106",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2020 Tesla Model X Standard Range",
+        "Range": "258",
+        "City Efficiency": "105",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2022 Mercedes-Benz EQB 300 4matic",
+        "Range": "243",
+        "City Efficiency": "104",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2022 Tesla Model S Plaid (21 inch wheels)",
+        "Range": "348",
+        "City Efficiency": "102",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2021 Tesla Model S Plaid (21inch wheels)",
+        "Range": "348",
+        "City Efficiency": "102",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2016 Tesla Model S AWD - 70D",
+        "Range": "240",
+        "City Efficiency": "101",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2015 Tesla Model S AWD - 70D",
+        "Range": "240",
+        "City Efficiency": "101",
+        "Highway Efficiency": "102",
+        "Combined Efficiency": "101",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2024 Genesis GV60 Advanced (19 inch Wheels)",
+        "Range": "264",
+        "City Efficiency": "110",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "100",
+        "Kwh/100mi": "33"
+    },
+    {
+        "Model": "2023 Polestar 2 Dual Motor",
+        "Range": "260",
+        "City Efficiency": "105",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "100",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2023 Polestar 2 Dual Motor Perf Pack",
+        "Range": "260",
+        "City Efficiency": "105",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "100",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2021 Ford Mustang Mach-E RWD",
+        "Range": "230",
+        "City Efficiency": "105",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "100",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2024 BMW i4 eDrive40 Gran Coupe (19 inch Wheels)",
+        "Range": "283",
+        "City Efficiency": "100",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "100",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2016 Tesla Model S AWD - 85D",
+        "Range": "270",
+        "City Efficiency": "95",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "100",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2015 Tesla Model S AWD - 85D",
+        "Range": "270",
+        "City Efficiency": "95",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "100",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2015 Tesla Model S AWD - 90D",
+        "Range": "270",
+        "City Efficiency": "95",
+        "Highway Efficiency": "106",
+        "Combined Efficiency": "100",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2024 Hyundai Ioniq 5 Long range AWD",
+        "Range": "260",
+        "City Efficiency": "110",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2021 Volkswagen ID.4 Pro",
+        "Range": "260",
+        "City Efficiency": "107",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2012 Nissan Leaf",
+        "Range": "73",
+        "City Efficiency": "106",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2011 Nissan Leaf",
+        "Range": "73",
+        "City Efficiency": "106",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2024 Volvo C40 Recharge twin",
+        "Range": "257",
+        "City Efficiency": "106",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2023 Ford Mustang Mach-E RWD Extended",
+        "Range": "310",
+        "City Efficiency": "105",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2023 Volkswagen ID.4 AWD Pro",
+        "Range": "255",
+        "City Efficiency": "104",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2023 Volkswagen ID.4 AWD Pro S",
+        "Range": "255",
+        "City Efficiency": "104",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2023 BMW i4 eDrive40 Gran Coupe (19 inch Wheels)",
+        "Range": "282",
+        "City Efficiency": "100",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2022 BMW i4 eDrive40 Gran Coupe (19 inch wheels)",
+        "Range": "282",
+        "City Efficiency": "100",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2024 BMW i5 eDrive40 Sedan (20 inch Wheels)",
+        "Range": "278",
+        "City Efficiency": "99",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2017 Tesla Model S (60 kW-hr battery pack)",
+        "Range": "210",
+        "City Efficiency": "98",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2016 Tesla Model S (60 kW-hr battery pack)",
+        "Range": "210",
+        "City Efficiency": "98",
+        "Highway Efficiency": "101",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2024 BMW i4 xDrive40 Gran Coupe (19 inch Wheels)",
+        "Range": "279",
+        "City Efficiency": "98",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "99",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2022 Hyundai Ioniq 5 AWD (Long Range)",
+        "Range": "256",
+        "City Efficiency": "110",
+        "Highway Efficiency": "87",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2024 Volvo XC40 Recharge twin",
+        "Range": "254",
+        "City Efficiency": "106",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2023 Ford MUSTANG MACH-E CAL RT 1 ER AWD",
+        "Range": "312",
+        "City Efficiency": "105",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2022 Ford Mustang Mach-E CAL RT 1 ER AWD",
+        "Range": "312",
+        "City Efficiency": "105",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2023 Nissan ARIYA EVO Plus/EMP Plus/PRM FWD 87kWh",
+        "Range": "289",
+        "City Efficiency": "105",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2023 Tesla Model X Plaid (20 inch wheels)",
+        "Range": "333",
+        "City Efficiency": "103",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2022 Tesla Model X Plaid (20 inch wheels)",
+        "Range": "333",
+        "City Efficiency": "103",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2017 Tesla Model S (75 kW-hr battery pack)",
+        "Range": "249",
+        "City Efficiency": "97",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2016 Tesla Model S (75 kW-hr battery pack)",
+        "Range": "249",
+        "City Efficiency": "97",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2018 Tesla Model S 75kWh",
+        "Range": "249",
+        "City Efficiency": "97",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2017 Tesla Model S AWD - P100D",
+        "Range": "315",
+        "City Efficiency": "92",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2016 Tesla Model S AWD - P100D",
+        "Range": "315",
+        "City Efficiency": "92",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2019 Tesla Model S P100D",
+        "Range": "315",
+        "City Efficiency": "92",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2018 Tesla Model S P100D",
+        "Range": "315",
+        "City Efficiency": "92",
+        "Highway Efficiency": "105",
+        "Combined Efficiency": "98",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 Genesis Electrified G80",
+        "Range": "282",
+        "City Efficiency": "105",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2023 Genesis Electrified G80",
+        "Range": "282",
+        "City Efficiency": "105",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2022 Ford Mustang Mach-E RWD Extended",
+        "Range": "303",
+        "City Efficiency": "104",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2021 Ford Mustang Mach-E RWD Extended",
+        "Range": "300",
+        "City Efficiency": "104",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2021 Volkswagen ID.4 1st",
+        "Range": "250",
+        "City Efficiency": "104",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2021 Volkswagen ID.4 Pro S",
+        "Range": "250",
+        "City Efficiency": "104",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2021 Volkswagen ID.4 AWD Pro",
+        "Range": "249",
+        "City Efficiency": "102",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2021 Tesla Model X Performance (20in Wheels)",
+        "Range": "341",
+        "City Efficiency": "100",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2020 Tesla Model S Performance (21in Wheels)",
+        "Range": "326",
+        "City Efficiency": "98",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2019 Tesla Model S Performance (21in Wheels)",
+        "Range": "325",
+        "City Efficiency": "98",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2022 Mercedes-Benz EQS 450 Plus",
+        "Range": "350",
+        "City Efficiency": "97",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "97",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2023 Kia EV6 Long Range AWD (20 inch tires)",
+        "Range": "252",
+        "City Efficiency": "106",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2024 Kia EV6 Long Range AWD (20 inch Wheels)",
+        "Range": "252",
+        "City Efficiency": "106",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "34"
+    },
+    {
+        "Model": "2024 Chevrolet Blazer EV AWD",
+        "Range": "279",
+        "City Efficiency": "103",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2020 Tesla Model X Long Range",
+        "Range": "328",
+        "City Efficiency": "99",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2019 Tesla Model X Long Range",
+        "Range": "325",
+        "City Efficiency": "99",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 Mercedes-Benz EQE 350 Plus",
+        "Range": "298",
+        "City Efficiency": "98",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 Mercedes-Benz EQE 500 4matic",
+        "Range": "298",
+        "City Efficiency": "98",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2022 Mercedes-Benz EQB 350 4matic",
+        "Range": "227",
+        "City Efficiency": "98",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2021 Tesla Model S Performance (21in Wheels)",
+        "Range": "334",
+        "City Efficiency": "98",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 BMW i5 eDrive40 Sedan (21 inch Wheels)",
+        "Range": "270",
+        "City Efficiency": "97",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 Mercedes-Benz EQS 450 Plus",
+        "Range": "352",
+        "City Efficiency": "95",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 Mercedes-Benz EQS 580 4matic",
+        "Range": "345",
+        "City Efficiency": "95",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2023 BMW i4 M50 Gran Coupe (19 inch wheels)",
+        "Range": "271",
+        "City Efficiency": "94",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2022 BMW i4 M50 Gran Coupe (19 inch wheels)",
+        "Range": "270",
+        "City Efficiency": "94",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "96",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2023 Genesis GV60 ADVANCE",
+        "Range": "248",
+        "City Efficiency": "103",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 Genesis GV60 Advanced (20 inch Wheels)",
+        "Range": "248",
+        "City Efficiency": "103",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2023 Lexus RZ 450e AWD (20 inch Wheels)",
+        "Range": "196",
+        "City Efficiency": "102",
+        "Highway Efficiency": "87",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2023 Nissan ARIYA ENGAGE e-4ORCE 63kWh",
+        "Range": "205",
+        "City Efficiency": "101",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 Polestar 2 Dual Motor Performance Pack",
+        "Range": "247",
+        "City Efficiency": "100",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "32"
+    },
+    {
+        "Model": "2022 Volkswagen ID.4 AWD Pro S",
+        "Range": "245",
+        "City Efficiency": "100",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2022 Audi Q4 e-tron quattro",
+        "Range": "241",
+        "City Efficiency": "100",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2023 Audi Q4 e-tron Sportback",
+        "Range": "242",
+        "City Efficiency": "100",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2022 Audi Q4 e-tron Sportback quattro",
+        "Range": "241",
+        "City Efficiency": "100",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2024 Audi Q4 Sportback 50 e-tron quattro",
+        "Range": "242",
+        "City Efficiency": "100",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2023 Polestar 2 BST edition",
+        "Range": "247",
+        "City Efficiency": "98",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2024 BMW i4 M50 Gran Coupe (19 inch wheels)",
+        "Range": "269",
+        "City Efficiency": "94",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2015 Tesla Model S (60 kW-hr battery pack)",
+        "Range": "208",
+        "City Efficiency": "94",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2014 Tesla Model S (60 kW-hr battery pack)",
+        "Range": "208",
+        "City Efficiency": "94",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2013 Tesla Model S (60 kW-hr battery pack)",
+        "Range": "208",
+        "City Efficiency": "94",
+        "Highway Efficiency": "97",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2024 Mercedes-Benz EQS 450 4matic",
+        "Range": "345",
+        "City Efficiency": "93",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2017 Tesla Model S AWD - P90D",
+        "Range": "270",
+        "City Efficiency": "92",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2022 Mercedes-Benz EQS 580 4matic",
+        "Range": "340",
+        "City Efficiency": "92",
+        "Highway Efficiency": "99",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2016 Tesla Model S AWD - P90D",
+        "Range": "270",
+        "City Efficiency": "91",
+        "Highway Efficiency": "100",
+        "Combined Efficiency": "95",
+        "Kwh/100mi": "35"
+    },
+    {
+        "Model": "2013 Tesla Model S (40 kW-hr battery pack)",
+        "Range": "139",
+        "City Efficiency": "93",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "94",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2021 Ford Mustang Mach-E AWD",
+        "Range": "211",
+        "City Efficiency": "100",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2023 Ford Mustang Mach-E AWD",
+        "Range": "224",
+        "City Efficiency": "99",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2022 Ford Mustang Mach-E AWD",
+        "Range": "224",
+        "City Efficiency": "99",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2021 Volkswagen ID.4 AWD Pro S",
+        "Range": "240",
+        "City Efficiency": "98",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2024 Audi Q4 50 e-tron quattro",
+        "Range": "236",
+        "City Efficiency": "97",
+        "Highway Efficiency": "87",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2023 Audi Q4 e-tron quattro",
+        "Range": "236",
+        "City Efficiency": "97",
+        "Highway Efficiency": "87",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2019 Tesla Model X 75D",
+        "Range": "238",
+        "City Efficiency": "91",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2018 Tesla Model X 75D",
+        "Range": "238",
+        "City Efficiency": "91",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2017 Tesla Model X AWD - 75D",
+        "Range": "238",
+        "City Efficiency": "91",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2016 Tesla Model X AWD - 75D",
+        "Range": "238",
+        "City Efficiency": "91",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2017 Tesla Model X AWD - 60D",
+        "Range": "200",
+        "City Efficiency": "91",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2016 Tesla Model X AWD - 60D",
+        "Range": "200",
+        "City Efficiency": "91",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2016 Tesla Model S AWD - P85D",
+        "Range": "253",
+        "City Efficiency": "89",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2015 Tesla Model S AWD - P85D",
+        "Range": "253",
+        "City Efficiency": "89",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2015 Tesla Model S AWD - P90D",
+        "Range": "253",
+        "City Efficiency": "89",
+        "Highway Efficiency": "98",
+        "Combined Efficiency": "93",
+        "Kwh/100mi": "36"
+    },
+    {
+        "Model": "2023 Fisker Ocean Extreme One",
+        "Range": "360",
+        "City Efficiency": "99",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "92",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2023 Mazda MX-30",
+        "Range": "100",
+        "City Efficiency": "98",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "92",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2022 Mazda MX-30",
+        "Range": "100",
+        "City Efficiency": "98",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "92",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2023 Nissan ARIYA ENG Plus/EVO Plus e-4ORCE 87kWh",
+        "Range": "272",
+        "City Efficiency": "97",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "92",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2023 Ford Mustang Mach-E AWD Extended",
+        "Range": "290",
+        "City Efficiency": "97",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "92",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2021 Polestar 2",
+        "Range": "233",
+        "City Efficiency": "96",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "92",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2017 Tesla Model X AWD - 90D",
+        "Range": "257",
+        "City Efficiency": "90",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "92",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2016 Tesla Model X AWD - 90D",
+        "Range": "257",
+        "City Efficiency": "90",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "92",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2024 Genesis Electrified GV70",
+        "Range": "236",
+        "City Efficiency": "98",
+        "Highway Efficiency": "83",
+        "Combined Efficiency": "91",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2022 Ford Mustang Mach-E AWD Extended",
+        "Range": "277",
+        "City Efficiency": "97",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "91",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2023 Tesla Model X Plaid (22 inch wheels)",
+        "Range": "311",
+        "City Efficiency": "94",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "91",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2022 Tesla Model X Plaid (22 inch wheels)",
+        "Range": "311",
+        "City Efficiency": "94",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "91",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2024 BMW i5 M60 xDrive Sedan (19 inch Wheels)",
+        "Range": "256",
+        "City Efficiency": "90",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "91",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2024 Genesis GV60 PERFORMANCE",
+        "Range": "235",
+        "City Efficiency": "97",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "90",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2023 Genesis GV60 PERFORMANCE",
+        "Range": "235",
+        "City Efficiency": "97",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "90",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2021 Ford Mustang Mach-E AWD Extended",
+        "Range": "270",
+        "City Efficiency": "96",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "90",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2023 Nissan ARIYA PLAT Plus e-4ORCE 87kWh 19",
+        "Range": "267",
+        "City Efficiency": "93",
+        "Highway Efficiency": "87",
+        "Combined Efficiency": "90",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2020 Tesla Model X Performance (20in Wheels)",
+        "Range": "305",
+        "City Efficiency": "90",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "90",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2024 BMW i7 eDrive50 Sedan (19 inch Wheels)",
+        "Range": "321",
+        "City Efficiency": "87",
+        "Highway Efficiency": "95",
+        "Combined Efficiency": "90",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2024 BMW i7 xDrive60 Sedan (19 inch wheels)",
+        "Range": "317",
+        "City Efficiency": "87",
+        "Highway Efficiency": "93",
+        "Combined Efficiency": "90",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2024 Mercedes-Benz EQE 350 4matic",
+        "Range": "280",
+        "City Efficiency": "86",
+        "Highway Efficiency": "96",
+        "Combined Efficiency": "90",
+        "Kwh/100mi": "37"
+    },
+    {
+        "Model": "2024 Kia EV9 Long Range RWD",
+        "Range": "304",
+        "City Efficiency": "100",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2023 Cadillac LYRIQ",
+        "Range": "312",
+        "City Efficiency": "97",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2023 Cadillac LYRIQ AWD",
+        "Range": "307",
+        "City Efficiency": "96",
+        "Highway Efficiency": "81",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2022 Polestar 2 Dual Motor",
+        "Range": "249",
+        "City Efficiency": "94",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2024 BMW i5 M60 xDrive Sedan (20 inch Wheels)",
+        "Range": "248",
+        "City Efficiency": "89",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2017 Tesla Model X AWD - P90D",
+        "Range": "250",
+        "City Efficiency": "89",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2016 Tesla Model X AWD - P90D",
+        "Range": "250",
+        "City Efficiency": "89",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2012 Tesla Model S",
+        "Range": "265",
+        "City Efficiency": "88",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2016 Tesla Model S (70 kW-hr battery pack)",
+        "Range": "234",
+        "City Efficiency": "88",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2016 Tesla Model S (85 kW-hr battery pack)",
+        "Range": "265",
+        "City Efficiency": "88",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2015 Tesla Model S (85 kW-hr battery pack)",
+        "Range": "265",
+        "City Efficiency": "88",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2014 Tesla Model S (85 kW-hr battery pack)",
+        "Range": "265",
+        "City Efficiency": "88",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2013 Tesla Model S (85 kW-hr battery pack)",
+        "Range": "265",
+        "City Efficiency": "88",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2016 Tesla Model S (90 kW-hr battery pack)",
+        "Range": "265",
+        "City Efficiency": "88",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2015 Tesla Model S (90 kW-hr battery pack)",
+        "Range": "265",
+        "City Efficiency": "88",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2023 BMW i7 xDrive60 Sedan (19 inch wheels)",
+        "Range": "318",
+        "City Efficiency": "87",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2014 Tesla Model S AWD (85 kW-hr battery pack)",
+        "Range": "242",
+        "City Efficiency": "86",
+        "Highway Efficiency": "94",
+        "Combined Efficiency": "89",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2024 Kia EV9 Standard Range RWD",
+        "Range": "230",
+        "City Efficiency": "99",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "88",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2024 Cadillac LYRIQ",
+        "Range": "314",
+        "City Efficiency": "95",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "88",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2024 BMW i7 eDrive50 Sedan (21 inch Wheels)",
+        "Range": "311",
+        "City Efficiency": "86",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "88",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2024 BMW i7 xDrive60 Sedan (21 inch wheels)",
+        "Range": "307",
+        "City Efficiency": "86",
+        "Highway Efficiency": "91",
+        "Combined Efficiency": "88",
+        "Kwh/100mi": "38"
+    },
+    {
+        "Model": "2023 Volvo C40 Recharge twin",
+        "Range": "226",
+        "City Efficiency": "94",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2022 Volvo C40 Recharge twin",
+        "Range": "226",
+        "City Efficiency": "94",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2011 smart fortwo electric drive cabriolet",
+        "Range": "63",
+        "City Efficiency": "94",
+        "Highway Efficiency": "79",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2011 smart fortwo electric drive coupe",
+        "Range": "63",
+        "City Efficiency": "94",
+        "Highway Efficiency": "79",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2023 Vinfast VF 8 Eco",
+        "Range": "207",
+        "City Efficiency": "89",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2023 Nissan ARIYA PLAT Plus e-4ORCE 87kWh 20",
+        "Range": "257",
+        "City Efficiency": "89",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2019 Tesla Model X 100D",
+        "Range": "295",
+        "City Efficiency": "86",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2018 Tesla Model X 100D",
+        "Range": "295",
+        "City Efficiency": "86",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2017 Tesla Model X AWD - 100D",
+        "Range": "295",
+        "City Efficiency": "86",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2023 BMW i7 xDrive60 Sedan (21 inch wheels)",
+        "Range": "308",
+        "City Efficiency": "85",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 Audi Q8 Sportback e-tron quattro",
+        "Range": "296",
+        "City Efficiency": "84",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "87",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2021 Tesla Model X Performance (22in Wheels)",
+        "Range": "300",
+        "City Efficiency": "89",
+        "Highway Efficiency": "83",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 BMW iX xDrive40 (20 inch Wheels)",
+        "Range": "217",
+        "City Efficiency": "87",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 BMW iX xDrive40 (21 inch Wheels)",
+        "Range": "217",
+        "City Efficiency": "87",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 BMW iX xDrive40 (22 inch Wheels)",
+        "Range": "217",
+        "City Efficiency": "87",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2023 BMW iX xDrive50 (20 inch wheels)",
+        "Range": "324",
+        "City Efficiency": "86",
+        "Highway Efficiency": "87",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2022 BMW iX xDrive50 (20 inch wheels)",
+        "Range": "324",
+        "City Efficiency": "86",
+        "Highway Efficiency": "87",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2023 BMW iX xDrive50 (22 inch wheels)",
+        "Range": "315",
+        "City Efficiency": "86",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2022 BMW iX xDrive50 (22 inch wheels)",
+        "Range": "315",
+        "City Efficiency": "86",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 Audi Q8 Sportback e-tron ultra quattro",
+        "Range": "300",
+        "City Efficiency": "84",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 BMW i7 eDrive50 Sedan (20 inch Wheels)",
+        "Range": "301",
+        "City Efficiency": "83",
+        "Highway Efficiency": "90",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2017 Tesla Model X AWD - P100D",
+        "Range": "289",
+        "City Efficiency": "81",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2016 Tesla Model X AWD - P100D",
+        "Range": "289",
+        "City Efficiency": "81",
+        "Highway Efficiency": "92",
+        "Combined Efficiency": "86",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2023 Volvo XC40 Recharge twin",
+        "Range": "223",
+        "City Efficiency": "92",
+        "Highway Efficiency": "79",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2022 Volvo XC40 Recharge twin",
+        "Range": "223",
+        "City Efficiency": "92",
+        "Highway Efficiency": "79",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 Jaguar I-Pace EV400 (20 inch tires)",
+        "Range": "246",
+        "City Efficiency": "89",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2023 Jaguar I-Pace EV400 (20 inch tires)",
+        "Range": "246",
+        "City Efficiency": "89",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2023 Mercedes-Benz EQS 450 Plus (SUV)",
+        "Range": "305",
+        "City Efficiency": "87",
+        "Highway Efficiency": "83",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 BMW i5 M60 xDrive Sedan (21 inch Wheels)",
+        "Range": "240",
+        "City Efficiency": "85",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2024 Audi e-tron GT",
+        "Range": "249",
+        "City Efficiency": "85",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2024 Audi RS e-tron GT",
+        "Range": "249",
+        "City Efficiency": "85",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2019 Tesla Model X P100D",
+        "Range": "289",
+        "City Efficiency": "83",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2018 Tesla Model X P100D",
+        "Range": "289",
+        "City Efficiency": "83",
+        "Highway Efficiency": "89",
+        "Combined Efficiency": "85",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2023 Ford Mustang Mach-E GT",
+        "Range": "270",
+        "City Efficiency": "90",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "84",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2022 Ford Mustang Mach-E GT",
+        "Range": "270",
+        "City Efficiency": "90",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "84",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2021 Ford Mustang Mach-E GT",
+        "Range": "270",
+        "City Efficiency": "90",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "84",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2014 Mercedes-Benz B-Class Electric Drive",
+        "Range": "87",
+        "City Efficiency": "85",
+        "Highway Efficiency": "83",
+        "Combined Efficiency": "84",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2015 Mercedes-Benz B-Class Electric Drive",
+        "Range": "87",
+        "City Efficiency": "85",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "84",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2017 Mercedes-Benz B250e",
+        "Range": "87",
+        "City Efficiency": "85",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "84",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2016 Mercedes-Benz B250e",
+        "Range": "87",
+        "City Efficiency": "85",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "84",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2024 BMW i7 xDrive60 Sedan (20 inch wheels)",
+        "Range": "298",
+        "City Efficiency": "82",
+        "Highway Efficiency": "87",
+        "Combined Efficiency": "84",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2024 Kia EV9 Long Range AWD",
+        "Range": "280",
+        "City Efficiency": "91",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 Kia EV6 AWD GT",
+        "Range": "218",
+        "City Efficiency": "88",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "39"
+    },
+    {
+        "Model": "2024 BMW iX xDrive50 (20 inch wheels)",
+        "Range": "307",
+        "City Efficiency": "83",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 BMW iX xDrive50 (21 inch wheels)",
+        "Range": "307",
+        "City Efficiency": "83",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 BMW iX xDrive50 (22 inch wheels)",
+        "Range": "307",
+        "City Efficiency": "83",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 Porsche Taycan GTS",
+        "Range": "246",
+        "City Efficiency": "83",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2023 Porsche Taycan GTS",
+        "Range": "246",
+        "City Efficiency": "83",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2022 Porsche Taycan GTS",
+        "Range": "246",
+        "City Efficiency": "83",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2023 BMW iX xDrive50 (21 inch wheels)",
+        "Range": "305",
+        "City Efficiency": "82",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2022 BMW iX xDrive50 (21 inch wheels)",
+        "Range": "305",
+        "City Efficiency": "82",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2023 BMW i7 xDrive60 Sedan (20 inch wheels)",
+        "Range": "296",
+        "City Efficiency": "81",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 Porsche Taycan Performance Battery",
+        "Range": "208",
+        "City Efficiency": "79",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2023 Porsche Taycan Performance Battery",
+        "Range": "208",
+        "City Efficiency": "79",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "83",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2023 Ford Mustang Mach-E GT Performance",
+        "Range": "260",
+        "City Efficiency": "90",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2022 Ford Mustang Mach-E GT Performance",
+        "Range": "260",
+        "City Efficiency": "88",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2021 Ford Mustang Mach-E GT Performance",
+        "Range": "260",
+        "City Efficiency": "88",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 Porsche Taycan 4S Performance Battery",
+        "Range": "206",
+        "City Efficiency": "82",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2023 Porsche Taycan 4S Performance Battery",
+        "Range": "206",
+        "City Efficiency": "82",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "40"
+    },
+    {
+        "Model": "2023 Audi e-tron GT",
+        "Range": "238",
+        "City Efficiency": "81",
+        "Highway Efficiency": "83",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2022 Audi e-tron GT",
+        "Range": "238",
+        "City Efficiency": "81",
+        "Highway Efficiency": "83",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 Mercedes-Benz AMG EQS 4matic Plus",
+        "Range": "305",
+        "City Efficiency": "79",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2023 Porsche Taycan Perf Battery Plus",
+        "Range": "242",
+        "City Efficiency": "78",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 Porsche Taycan Performance Battery Plus",
+        "Range": "242",
+        "City Efficiency": "78",
+        "Highway Efficiency": "88",
+        "Combined Efficiency": "82",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 Porsche Taycan Turbo",
+        "Range": "238",
+        "City Efficiency": "81",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "81",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 Porsche Taycan Turbo",
+        "Range": "238",
+        "City Efficiency": "81",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "81",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2024 Audi Q8 e-tron quattro",
+        "Range": "285",
+        "City Efficiency": "80",
+        "Highway Efficiency": "83",
+        "Combined Efficiency": "81",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 BMW i7 M70 xDrive Sedan (21 inch Wheels)",
+        "Range": "291",
+        "City Efficiency": "79",
+        "Highway Efficiency": "85",
+        "Combined Efficiency": "81",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 Audi RS e-tron GT",
+        "Range": "232",
+        "City Efficiency": "79",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "81",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2022 Audi RS e-tron GT",
+        "Range": "232",
+        "City Efficiency": "79",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "81",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2024 Rolls-Royce Spectre (22 inch wheels)",
+        "Range": "291",
+        "City Efficiency": "77",
+        "Highway Efficiency": "86",
+        "Combined Efficiency": "81",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2024 Kia EV9 Long Range AWD GT-Line",
+        "Range": "270",
+        "City Efficiency": "88",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 Vinfast VF 8 Plus",
+        "Range": "191",
+        "City Efficiency": "82",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2024 Porsche Taycan 4 Cross Turismo",
+        "Range": "235",
+        "City Efficiency": "80",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 Porsche Taycan 4 Cross Turismo",
+        "Range": "235",
+        "City Efficiency": "80",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2024 Porsche Taycan GTS Sport Turismo",
+        "Range": "233",
+        "City Efficiency": "80",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 Porsche Taycan GTS Sport Turismo",
+        "Range": "233",
+        "City Efficiency": "80",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2022 Porsche Taycan GTS ST",
+        "Range": "233",
+        "City Efficiency": "80",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 Porsche Taycan 4S Perf Battery Plus",
+        "Range": "235",
+        "City Efficiency": "79",
+        "Highway Efficiency": "81",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2024 Porsche Taycan 4S Performance Battery Plus",
+        "Range": "235",
+        "City Efficiency": "79",
+        "Highway Efficiency": "81",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2024 BMW i4 M50 Gran Coupe (20 inch wheels)",
+        "Range": "227",
+        "City Efficiency": "79",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 BMW i4 M50 Gran Coupe (20 inch wheels)",
+        "Range": "227",
+        "City Efficiency": "79",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2022 BMW i4 M50 Gran Coupe (20 inch wheels)",
+        "Range": "227",
+        "City Efficiency": "79",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2024 BMW iX M60 (21 inch Wheels)",
+        "Range": "296",
+        "City Efficiency": "78",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2024 BMW iX M60 (22 inch Wheels)",
+        "Range": "296",
+        "City Efficiency": "78",
+        "Highway Efficiency": "82",
+        "Combined Efficiency": "80",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 Kia EV6 AWD GT",
+        "Range": "206",
+        "City Efficiency": "85",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2021 Volvo XC40 AWD BEV",
+        "Range": "208",
+        "City Efficiency": "85",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2024 Porsche Taycan Turbo Cross Turismo",
+        "Range": "233",
+        "City Efficiency": "80",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 Porsche Taycan Turbo Cross Turismo",
+        "Range": "233",
+        "City Efficiency": "80",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2020 Tesla Model X Performance (22in Wheels)",
+        "Range": "272",
+        "City Efficiency": "80",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2019 Tesla Model X Performance (22in Wheels)",
+        "Range": "270",
+        "City Efficiency": "80",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2022 Porsche Taycan 4S Perf Battery",
+        "Range": "199",
+        "City Efficiency": "79",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2021 Porsche Taycan 4S Perf Battery",
+        "Range": "199",
+        "City Efficiency": "79",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 Audi e-tron quattro",
+        "Range": "226",
+        "City Efficiency": "78",
+        "Highway Efficiency": "79",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2022 Porsche Taycan Perf Battery",
+        "Range": "200",
+        "City Efficiency": "76",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2021 Porsche Taycan Perf Battery",
+        "Range": "200",
+        "City Efficiency": "76",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "79",
+        "Kwh/100mi": "41"
+    },
+    {
+        "Model": "2023 Rivian R1S 21 inch Dual Large",
+        "Range": "352",
+        "City Efficiency": "82",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 Rivian R1S 21 inch Performance Dual Large",
+        "Range": "352",
+        "City Efficiency": "82",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 Rivian R1T 21 inch Dual Large",
+        "Range": "352",
+        "City Efficiency": "82",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 Rivian R1T 21 inch Performance Dual Large",
+        "Range": "352",
+        "City Efficiency": "82",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 Mercedes-Benz EQS 450 4matic (SUV)",
+        "Range": "285",
+        "City Efficiency": "79",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 Porsche Taycan 4S Cross Turismo",
+        "Range": "230",
+        "City Efficiency": "78",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2021 Audi e-tron",
+        "Range": "222",
+        "City Efficiency": "78",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2022 Audi e-tron quattro",
+        "Range": "222",
+        "City Efficiency": "78",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 Audi e-tron Sportback quattro",
+        "Range": "225",
+        "City Efficiency": "77",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 BMW iX M60 (22 inch wheels)",
+        "Range": "274",
+        "City Efficiency": "77",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2024 Rolls-Royce Spectre Black Badge (22 inch wheels)",
+        "Range": "280",
+        "City Efficiency": "74",
+        "Highway Efficiency": "84",
+        "Combined Efficiency": "78",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2023 Mercedes-Benz EQS 580 4matic (SUV)",
+        "Range": "285",
+        "City Efficiency": "79",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "42"
+    },
+    {
+        "Model": "2023 BMW iX M60 (21 inch wheels)",
+        "Range": "288",
+        "City Efficiency": "76",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2021 Audi e-tron Sportback",
+        "Range": "218",
+        "City Efficiency": "76",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2020 Audi e-tron Sportback",
+        "Range": "218",
+        "City Efficiency": "76",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2022 Audi e-tron Sportback quattro",
+        "Range": "218",
+        "City Efficiency": "76",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2022 Mercedes-Benz AMG EQS 4matic Plus",
+        "Range": "277",
+        "City Efficiency": "76",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2022 Porsche Taycan 4S Perf Battery Plus",
+        "Range": "227",
+        "City Efficiency": "75",
+        "Highway Efficiency": "81",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2021 Porsche Taycan 4S Perf Battery Plus",
+        "Range": "227",
+        "City Efficiency": "75",
+        "Highway Efficiency": "81",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "43"
+    },
+    {
+        "Model": "2024 BMW i7 M70 xDrive Sedan (20 inch Wheels)",
+        "Range": "274",
+        "City Efficiency": "74",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "77",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2020 Jaguar I-Pace",
+        "Range": "234",
+        "City Efficiency": "80",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2019 Jaguar I-Pace",
+        "Range": "234",
+        "City Efficiency": "80",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2021 Jaguar I-Pace EV400",
+        "Range": "234",
+        "City Efficiency": "80",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2023 Rivian R1T 22 inch Dual Large",
+        "Range": "341",
+        "City Efficiency": "80",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2023 Rivian R1T 22 inch Performance Dual Large",
+        "Range": "341",
+        "City Efficiency": "80",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2024 Jaguar I-Pace EV400 (22 inch tires)",
+        "Range": "217",
+        "City Efficiency": "79",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2023 Jaguar I-Pace EV400 (22 inch tires)",
+        "Range": "217",
+        "City Efficiency": "79",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2014 Toyota RAV4 EV",
+        "Range": "103",
+        "City Efficiency": "78",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2013 Toyota RAV4 EV",
+        "Range": "103",
+        "City Efficiency": "78",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2012 Toyota RAV4 EV",
+        "Range": "103",
+        "City Efficiency": "78",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2022 Porsche Taycan 4 Cross Turismo",
+        "Range": "215",
+        "City Efficiency": "76",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2021 Porsche Taycan 4 Cross Turismo",
+        "Range": "215",
+        "City Efficiency": "76",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2024 Mercedes-Benz EQS 680 4matic Maybach (SUV)",
+        "Range": "280",
+        "City Efficiency": "75",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "76",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2023 Rivian R1S 22 inch Dual Large",
+        "Range": "341",
+        "City Efficiency": "80",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2023 Rivian R1S 22 inch Performance Dual Large",
+        "Range": "341",
+        "City Efficiency": "80",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2024 Vinfast VF 9 Eco",
+        "Range": "330",
+        "City Efficiency": "79",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2024 Porsche Taycan Turbo S",
+        "Range": "222",
+        "City Efficiency": "76",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2023 Porsche Taycan Turbo S",
+        "Range": "222",
+        "City Efficiency": "76",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2024 Porsche Taycan Turbo S Cross Turismo",
+        "Range": "222",
+        "City Efficiency": "76",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2023 Porsche Taycan Turbo S Cross Turismo",
+        "Range": "222",
+        "City Efficiency": "76",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2022 Porsche Taycan 4S Cross Turismo",
+        "Range": "215",
+        "City Efficiency": "75",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2021 Porsche Taycan 4S Cross Turismo",
+        "Range": "215",
+        "City Efficiency": "75",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2023 Audi e-tron S Sportback (20 inch wheels)",
+        "Range": "212",
+        "City Efficiency": "73",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2022 Audi e-tron S Sportback (20 inch wheels)",
+        "Range": "212",
+        "City Efficiency": "73",
+        "Highway Efficiency": "78",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2022 Porsche Taycan Perf Battery Plus",
+        "Range": "225",
+        "City Efficiency": "71",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2021 Porsche Taycan Perf Battery Plus",
+        "Range": "225",
+        "City Efficiency": "71",
+        "Highway Efficiency": "80",
+        "Combined Efficiency": "75",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2024 Mercedes-Benz AMG EQE 4matic Plus (SUV)",
+        "Range": "235",
+        "City Efficiency": "77",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "74",
+        "Kwh/100mi": "44"
+    },
+    {
+        "Model": "2019 Audi e-tron",
+        "Range": "204",
+        "City Efficiency": "74",
+        "Highway Efficiency": "73",
+        "Combined Efficiency": "74",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2024 Rolls-Royce Spectre (23 inch wheels)",
+        "Range": "266",
+        "City Efficiency": "71",
+        "Highway Efficiency": "79",
+        "Combined Efficiency": "74",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2013 CODA Automotive CODA",
+        "Range": "88",
+        "City Efficiency": "77",
+        "Highway Efficiency": "68",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2012 CODA Automotive CODA",
+        "Range": "88",
+        "City Efficiency": "77",
+        "Highway Efficiency": "68",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2023 Rivian R1T (21 inch wheels)",
+        "Range": "328",
+        "City Efficiency": "76",
+        "Highway Efficiency": "69",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2022 Porsche Taycan Turbo S Cross Turismo",
+        "Range": "202",
+        "City Efficiency": "74",
+        "Highway Efficiency": "73",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2021 Porsche Taycan Turbo S Cross Turismo",
+        "Range": "202",
+        "City Efficiency": "74",
+        "Highway Efficiency": "73",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2024 Mercedes-Benz AMG EQE 4matic Plus",
+        "Range": "230",
+        "City Efficiency": "73",
+        "Highway Efficiency": "74",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2023 Audi e-tron S (20 inch wheels)",
+        "Range": "208",
+        "City Efficiency": "72",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2022 Audi e-tron S (20in wheels)",
+        "Range": "208",
+        "City Efficiency": "72",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2024 Audi SQ8 e-tron (20 inch wheels)",
+        "Range": "253",
+        "City Efficiency": "72",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2024 Audi SQ8 Sportback e-tron (20 inch wheels)",
+        "Range": "253",
+        "City Efficiency": "72",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2024 Rolls-Royce Spectre Black Badge (23 inch wheels)",
+        "Range": "264",
+        "City Efficiency": "71",
+        "Highway Efficiency": "77",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2022 Porsche Taycan Turbo",
+        "Range": "212",
+        "City Efficiency": "71",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "46"
+    },
+    {
+        "Model": "2021 Porsche Taycan Turbo",
+        "Range": "212",
+        "City Efficiency": "71",
+        "Highway Efficiency": "75",
+        "Combined Efficiency": "73",
+        "Kwh/100mi": "45"
+    },
+    {
+        "Model": "2020 BYD e6",
+        "Range": "187",
+        "City Efficiency": "73",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "72",
+        "Kwh/100mi": "47"
+    },
+    {
+        "Model": "2018 BYD e6",
+        "Range": "187",
+        "City Efficiency": "73",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "72",
+        "Kwh/100mi": "47"
+    },
+    {
+        "Model": "2017 BYD e6",
+        "Range": "187",
+        "City Efficiency": "73",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "72",
+        "Kwh/100mi": "47"
+    },
+    {
+        "Model": "2016 BYD e6",
+        "Range": "187",
+        "City Efficiency": "73",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "72",
+        "Kwh/100mi": "47"
+    },
+    {
+        "Model": "2022 Porsche Taycan Turbo Cross Turismo",
+        "Range": "204",
+        "City Efficiency": "72",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "72",
+        "Kwh/100mi": "47"
+    },
+    {
+        "Model": "2021 Porsche Taycan Turbo Cross Turismo",
+        "Range": "204",
+        "City Efficiency": "72",
+        "Highway Efficiency": "72",
+        "Combined Efficiency": "72",
+        "Kwh/100mi": "47"
+    },
+    {
+        "Model": "2023 Rivian R1S (21 inch wheels)",
+        "Range": "321",
+        "City Efficiency": "75",
+        "Highway Efficiency": "66",
+        "Combined Efficiency": "71",
+        "Kwh/100mi": "47"
+    },
+    {
+        "Model": "2023 Ford F-150 Lightning 4WD Extended Range",
+        "Range": "320",
+        "City Efficiency": "78",
+        "Highway Efficiency": "63",
+        "Combined Efficiency": "70",
+        "Kwh/100mi": "48"
+    },
+    {
+        "Model": "2022 Ford F-150 Lightning 4WD Extended Range",
+        "Range": "320",
+        "City Efficiency": "78",
+        "Highway Efficiency": "63",
+        "Combined Efficiency": "70",
+        "Kwh/100mi": "48"
+    },
+    {
+        "Model": "2022 Rivian R1T",
+        "Range": "314",
+        "City Efficiency": "74",
+        "Highway Efficiency": "66",
+        "Combined Efficiency": "70",
+        "Kwh/100mi": "48"
+    },
+    {
+        "Model": "2022 Porsche Taycan Turbo S",
+        "Range": "201",
+        "City Efficiency": "69",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "70",
+        "Kwh/100mi": "48"
+    },
+    {
+        "Model": "2021 Porsche Taycan Turbo S",
+        "Range": "201",
+        "City Efficiency": "69",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "70",
+        "Kwh/100mi": "48"
+    },
+    {
+        "Model": "2022 Rivian R1S",
+        "Range": "316",
+        "City Efficiency": "73",
+        "Highway Efficiency": "65",
+        "Combined Efficiency": "69",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2024 Vinfast VF 9 Plus",
+        "Range": "291",
+        "City Efficiency": "71",
+        "Highway Efficiency": "66",
+        "Combined Efficiency": "69",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2020 Porsche Taycan 4S Perf Battery Plus",
+        "Range": "203",
+        "City Efficiency": "68",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "69",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2020 Porsche Taycan Turbo",
+        "Range": "201",
+        "City Efficiency": "68",
+        "Highway Efficiency": "71",
+        "Combined Efficiency": "69",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2023 Ford F-150 Lightning 4WD",
+        "Range": "240",
+        "City Efficiency": "76",
+        "Highway Efficiency": "61",
+        "Combined Efficiency": "68",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2022 Ford F-150 Lightning 4WD",
+        "Range": "230",
+        "City Efficiency": "76",
+        "Highway Efficiency": "61",
+        "Combined Efficiency": "68",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2023 Rivian R1S (22 inch wheels)",
+        "Range": "303",
+        "City Efficiency": "73",
+        "Highway Efficiency": "63",
+        "Combined Efficiency": "68",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2023 Rivian R1T (22 inch wheels)",
+        "Range": "303",
+        "City Efficiency": "73",
+        "Highway Efficiency": "63",
+        "Combined Efficiency": "68",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2023 Rivian R1S 20 inch All-Terrain Dual Large",
+        "Range": "307",
+        "City Efficiency": "72",
+        "Highway Efficiency": "64",
+        "Combined Efficiency": "68",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2023 Rivian R1S 20 inch All-Terrain Performance Dual Large",
+        "Range": "307",
+        "City Efficiency": "72",
+        "Highway Efficiency": "64",
+        "Combined Efficiency": "68",
+        "Kwh/100mi": "49"
+    },
+    {
+        "Model": "2020 Porsche Taycan Turbo S",
+        "Range": "192",
+        "City Efficiency": "67",
+        "Highway Efficiency": "68",
+        "Combined Efficiency": "68",
+        "Kwh/100mi": "50"
+    },
+    {
+        "Model": "2024 Chevrolet Silverado EV",
+        "Range": "393",
+        "City Efficiency": "72",
+        "Highway Efficiency": "62",
+        "Combined Efficiency": "67",
+        "Kwh/100mi": "51"
+    },
+    {
+        "Model": "2023 Ford F-150 Lightning Platinum 4WD",
+        "Range": "300",
+        "City Efficiency": "73",
+        "Highway Efficiency": "60",
+        "Combined Efficiency": "66",
+        "Kwh/100mi": "51"
+    },
+    {
+        "Model": "2022 Ford F-150 Lightning Platinum 4WD",
+        "Range": "300",
+        "City Efficiency": "73",
+        "Highway Efficiency": "60",
+        "Combined Efficiency": "66",
+        "Kwh/100mi": "51"
+    },
+    {
+        "Model": "2023 Audi e-tron S Sportback (21/22 inch wheels)",
+        "Range": "185",
+        "City Efficiency": "64",
+        "Highway Efficiency": "66",
+        "Combined Efficiency": "65",
+        "Kwh/100mi": "52"
+    },
+    {
+        "Model": "2022 Audi e-tron S Sportback (21/22 inch wheels)",
+        "Range": "185",
+        "City Efficiency": "64",
+        "Highway Efficiency": "66",
+        "Combined Efficiency": "65",
+        "Kwh/100mi": "52"
+    },
+    {
+        "Model": "2023 Rivian R1S (20 inch wheels)",
+        "Range": "289",
+        "City Efficiency": "69",
+        "Highway Efficiency": "60",
+        "Combined Efficiency": "64",
+        "Kwh/100mi": "52"
+    },
+    {
+        "Model": "2023 Rivian R1T (20 inch wheels)",
+        "Range": "289",
+        "City Efficiency": "69",
+        "Highway Efficiency": "60",
+        "Combined Efficiency": "64",
+        "Kwh/100mi": "52"
+    },
+    {
+        "Model": "2024 Chevrolet Silverado EV",
+        "Range": "450",
+        "City Efficiency": "67",
+        "Highway Efficiency": "59",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "53"
+    },
+    {
+        "Model": "2023 Rivian R1S 20 inch All-Terrain",
+        "Range": "274",
+        "City Efficiency": "65",
+        "Highway Efficiency": "60",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "54"
+    },
+    {
+        "Model": "2024 Rivian R1S All-Terrain Quad Large (20 inch)",
+        "Range": "274",
+        "City Efficiency": "65",
+        "Highway Efficiency": "60",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "54"
+    },
+    {
+        "Model": "2023 Audi e-tron S (21/22 inch wheels)",
+        "Range": "181",
+        "City Efficiency": "62",
+        "Highway Efficiency": "64",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "53"
+    },
+    {
+        "Model": "2022 Audi e-tron S (21/22 inch wheels)",
+        "Range": "181",
+        "City Efficiency": "62",
+        "Highway Efficiency": "64",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "53"
+    },
+    {
+        "Model": "2024 Audi SQ8 e-tron (21/22 inch wheels)",
+        "Range": "218",
+        "City Efficiency": "62",
+        "Highway Efficiency": "63",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "54"
+    },
+    {
+        "Model": "2024 Audi SQ8 Sportback e-tron (21/22 inch wheels)",
+        "Range": "218",
+        "City Efficiency": "62",
+        "Highway Efficiency": "63",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "54"
+    },
+    {
+        "Model": "2014 BYD e6",
+        "Range": "127",
+        "City Efficiency": "61",
+        "Highway Efficiency": "65",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "54"
+    },
+    {
+        "Model": "2013 BYD e6",
+        "Range": "127",
+        "City Efficiency": "61",
+        "Highway Efficiency": "65",
+        "Combined Efficiency": "63",
+        "Kwh/100mi": "54"
+    },
+    {
+        "Model": "2012 Azure Dynamics Transit Connect Electric Van/Wagon",
+        "Range": "56",
+        "City Efficiency": "62",
+        "Highway Efficiency": "62",
+        "Combined Efficiency": "62",
+        "Kwh/100mi": "54"
+    },
+    {
+        "Model": "2012 BYD e6",
+        "Range": "122",
+        "City Efficiency": "60",
+        "Highway Efficiency": "64",
+        "Combined Efficiency": "62",
+        "Kwh/100mi": "54"
+    },
+    {
+        "Model": "2024 GMC Hummer EV Pickup",
+        "Range": "314",
+        "City Efficiency": "59",
+        "Highway Efficiency": "48",
+        "Combined Efficiency": "53",
+        "Kwh/100mi": "63"
+    },
+    {
+        "Model": "2024 GMC Hummer EV SUV",
+        "Range": "314",
+        "City Efficiency": "59",
+        "Highway Efficiency": "48",
+        "Combined Efficiency": "53",
+        "Kwh/100mi": "63"
+    },
+    {
+        "Model": "2024 GMC Hummer EV Pickup MT Tires",
+        "Range": "298",
+        "City Efficiency": "55",
+        "Highway Efficiency": "45",
+        "Combined Efficiency": "50",
+        "Kwh/100mi": "63"
+    },
+    {
+        "Model": "2024 GMC Hummer EV SUV MT Tires",
+        "Range": "298",
+        "City Efficiency": "55",
+        "Highway Efficiency": "45",
+        "Combined Efficiency": "50",
+        "Kwh/100mi": "63"
+    },
+    {
+        "Model": "2023 Lordstown Endurance",
+        "Range": "174",
+        "City Efficiency": "49",
+        "Highway Efficiency": "46",
+        "Combined Efficiency": "48",
+        "Kwh/100mi": "70"
+    }
+]

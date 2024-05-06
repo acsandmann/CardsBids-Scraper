@@ -37,6 +37,10 @@ class Car(Base):
     url = Column(String)
     image_url = Column(String)
     end_date = Column(String)
+    horsepower = Column(String, nullable=True)
+    modifications = Column(String, nullable=True)
+    ownership = Column(String, nullable=True)
+    extra = Column(String, nullable=True)
 
     def __repr__(self):
         return f"<Car(brand='{self.brand}', model='{self.model}', year={self.year}, price={self.price})>"
@@ -57,7 +61,11 @@ class Car(Base):
             "reserve": self.reserve,
             "url": self.url,
             "image_url": self.image_url,
-            "end_date": self.end_date
+            "end_date": self.end_date,
+            "horsepower": self.horsepower,
+            "modifications": self.modifications,
+            "ownership": self.ownership,
+            "extra": self.extra,
         }
 
     @staticmethod

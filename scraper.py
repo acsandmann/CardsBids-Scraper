@@ -68,7 +68,7 @@ class Scraper:
                 details = auction_subtitle.text.strip()
                 parsed_entry = {
                     "engine": re.search(
-                        r"\b(\d{3}-hp|\d+.\d+-Liter|\d+.\d+-Liter Flat-\d+)\b", details
+                        r"\b((?:Twin-Turbo|Turbocharged)? ?\d+\.\d+-Liter(?: Turbodiesel)?(?: \d+-Cylinder)?|(?:Twin-Turbo|Turbocharged)? ?(?:V\d+|I\d+|Flat-\d+))\b", details
                     ),
                     "transmission": re.search(
                         r"\b(\d+-Speed Manual|Automatic|PDK)\b", details
@@ -86,10 +86,11 @@ class Scraper:
                 for key in parsed_entry:
                     match = parsed_entry[key]
                     data[key] = match.group(0) if match else None
-
+                
+                data['extra'] = auction_subtitle.text.strip()
             self.data.append(data)
             i += 1
-        print(f"Scraped {len(self.data) - (50 * page)} results from page {page}")
+        print(f"Scraped {len(self.data)/page * 50} results from page {page}")
 
     def make_request(self, url):
         driver = self.driver

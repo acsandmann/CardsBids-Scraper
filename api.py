@@ -27,8 +27,8 @@ def create_app():
 
 if __name__ == "__main__":
     app = create_app()
-    #app.run(host='0.0.0.0', port=6969, debug=True, ssl_context=('/etc/ssl/certificate.crt', '/etc/ssl/private.key'))
-    app.run(host='0.0.0.0', port=6969, debug=True)
-    #from waitress import serve
-    #serve(app, host="0.0.0.0", port=6969)
-    #serve(app, listen="*:6969")
+    #app.run(host='0.0.0.0', port=6969, debug=False, ssl_context=('/etc/ssl/certificate.crt', '/etc/ssl/private.key'))
+    #app.run(host='0.0.0.0', port=6969, debug=True)
+    from gevent import pywsgi
+    server = pywsgi.WSGIServer(('0.0.0.0', 6969), app, keyfile='/etc/ssl/private.key', certfile='/etc/ssl/certificate.crt')
+    server.serve_forever()
